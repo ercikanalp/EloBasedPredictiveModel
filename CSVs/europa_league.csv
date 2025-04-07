@@ -1,0 +1,185 @@
+Match Number,Round Number,Date,Location,Home Team,Away Team,Result
+1,1,25/09/2024 16:45,AZ Stadion,AZ Alkmaar,Elfsborg,3 - 2
+2,1,25/09/2024 16:45,Aspmyra,Bodø/Glimt,Porto,3 - 2
+3,1,25/09/2024 19:00,Old Trafford,Man Utd,Twente,1 - 1
+4,1,25/09/2024 19:00,Ali Sami Yen Spor Kompleksi,Galatasaray,PAOK,3 - 1
+5,1,25/09/2024 19:00,Volksparkstadion,Dynamo Kyiv,Lazio,0 - 3
+6,1,25/09/2024 19:00,Ludogorets Arena,Ludogorets,Slavia Praha,0 - 2
+7,1,25/09/2024 19:00,Arena Herning,Midtjylland,Hoffenheim,1 - 1
+8,1,25/09/2024 19:00,Grand Stade de Nice,Nice,Real Sociedad,1 - 1
+9,1,25/09/2024 19:00,RSC Anderlecht Stadium,Anderlecht,Ferencváros,2 - 1
+10,1,26/09/2024 16:45,Fenerbahçe Sükrü Saracoglu Spor Kompleksi,Fenerbahçe,Union SG,2 - 1
+11,1,26/09/2024 16:45,Malmö New Stadium,Malmö,Rangers,0 - 2
+12,1,26/09/2024 19:00,Stadio Olimpico,Roma,Athletic Club,1 - 1
+13,1,26/09/2024 19:00,Johan Cruijff ArenA,Ajax,Besiktas,4 - 0
+14,1,26/09/2024 19:00,Frankfurt Stadion,Frankfurt,Viktoria Plzen,3 - 3
+16,1,26/09/2024 19:00,Estádio Municipal de Braga,Braga,M. Tel-Aviv,2 - 1
+17,1,26/09/2024 19:00,OL Stadium,Lyon,Olympiacos,2 - 0
+18,1,26/09/2024 19:00,National Arena,FCSB,RFS,4 - 1
+15,1,26/09/2024 19:35,Tottenham Hotspur Stadium,Tottenham,Qarabag,3 - 0
+19,2,03/10/2024 16:45,Stadio Olimpico,Lazio,Nice,4 - 1
+20,2,03/10/2024 16:45,Eden Arena,Slavia Praha,Ajax,1 - 1
+21,2,03/10/2024 16:45,REALA ARENA,Real Sociedad,Anderlecht,1 - 2
+22,2,03/10/2024 16:45,Stadio Georgios Karaiskakis,Olympiacos,Braga,3 - 0
+23,2,03/10/2024 16:45,Stadion FK Partizan,M. Tel-Aviv,Midtjylland,0 - 2
+24,2,03/10/2024 16:45,Ferencváros Stadion,Ferencváros,Tottenham,1 - 2
+25,2,03/10/2024 16:45,Tofiq Bahramov Republican Stadium,Qarabag,Malmö,1 - 2
+26,2,03/10/2024 16:45,Rhein-Neckar-Arena,Hoffenheim,Dynamo Kyiv,2 - 0
+27,2,03/10/2024 16:45,Daugava,RFS,Galatasaray,2 - 2
+28,2,03/10/2024 19:00,Estádio do Dragão,Porto,Man Utd,3 - 3
+29,2,03/10/2024 19:00,Ibrox Stadium,Rangers,Lyon,1 - 4
+30,2,03/10/2024 19:00,Toumba Stadium,PAOK,FCSB,0 - 1
+31,2,03/10/2024 19:00,Stadion mesta Plzne,Viktoria Plzen,Ludogorets,0 - 0
+32,2,03/10/2024 19:00,King Baudouin Stadium,Union SG,Bodø/Glimt,0 - 0
+33,2,03/10/2024 19:00,Estadio de San Mamés,Athletic Club,AZ Alkmaar,2 - 0
+34,2,03/10/2024 19:00,FC Twente Stadion,Twente,Fenerbahçe,1 - 1
+35,2,03/10/2024 19:00,Besiktas Stadium,Besiktas,Frankfurt,1 - 3
+36,2,03/10/2024 19:00,Borås Arena,Elfsborg,Roma,1 - 0
+37,3,23/10/2024 14:30,Estádio Municipal de Braga,Braga,Bodø/Glimt,1 - 2
+38,3,23/10/2024 14:30,Ali Sami Yen Spor Kompleksi,Galatasaray,Elfsborg,4 - 3
+39,3,24/10/2024 16:45,Stadio Olimpico,Roma,Dynamo Kyiv,1 - 0
+40,3,24/10/2024 16:45,Frankfurt Stadion,Frankfurt,RFS,1 - 0
+41,3,24/10/2024 16:45,Toumba Stadium,PAOK,Viktoria Plzen,2 - 2
+42,3,24/10/2024 16:45,Stadion FK Partizan,M. Tel-Aviv,Real Sociedad,1 - 2
+43,3,24/10/2024 16:45,Ferencváros Stadion,Ferencváros,Nice,1 - 0
+44,3,24/10/2024 16:45,Tofiq Bahramov Republican Stadium,Qarabag,Ajax,0 - 3
+45,3,24/10/2024 16:45,Arena Herning,Midtjylland,Union SG,1 - 0
+46,3,24/10/2024 19:00,Estádio do Dragão,Porto,Hoffenheim,2 - 0
+47,3,24/10/2024 19:00,Ibrox Stadium,Rangers,FCSB,4 - 0
+48,3,24/10/2024 19:00,Tottenham Hotspur Stadium,Tottenham,AZ Alkmaar,1 - 0
+49,3,24/10/2024 19:00,OL Stadium,Lyon,Besiktas,0 - 1
+50,3,24/10/2024 19:00,Fenerbahçe Sükrü Saracoglu Spor Kompleksi,Fenerbahçe,Man Utd,1 - 1
+51,3,24/10/2024 19:00,Malmö New Stadium,Malmö,Olympiacos,0 - 1
+52,3,24/10/2024 19:00,Estadio de San Mamés,Athletic Club,Slavia Praha,1 - 0
+53,3,24/10/2024 19:00,RSC Anderlecht Stadium,Anderlecht,Ludogorets,2 - 0
+54,3,24/10/2024 19:00,FC Twente Stadion,Twente,Lazio,0 - 2
+55,4,06/11/2024 15:30,Besiktas Stadium,Besiktas,Malmö,2 - 1
+56,4,07/11/2024 17:45,Frankfurt Stadion,Frankfurt,Slavia Praha,1 - 0
+57,4,07/11/2024 17:45,Stadio Georgios Karaiskakis,Olympiacos,Rangers,1 - 1
+58,4,07/11/2024 17:45,Ali Sami Yen Spor Kompleksi,Galatasaray,Tottenham,3 - 2
+59,4,07/11/2024 17:45,Aspmyra,Bodø/Glimt,Qarabag,1 - 2
+60,4,07/11/2024 17:45,King Baudouin Stadium,Union SG,Roma,1 - 1
+61,4,07/11/2024 17:45,Ludogorets Arena,Ludogorets,Athletic Club,1 - 2
+62,4,07/11/2024 17:45,Grand Stade de Nice,Nice,Twente,2 - 2
+63,4,07/11/2024 17:45,National Arena,FCSB,Midtjylland,2 - 0
+64,4,07/11/2024 17:45,Borås Arena,Elfsborg,Braga,1 - 1
+65,4,07/11/2024 20:00,Old Trafford,Man Utd,PAOK,2 - 0
+66,4,07/11/2024 20:00,Johan Cruijff ArenA,Ajax,M. Tel-Aviv,5 - 0
+67,4,07/11/2024 20:00,Stadio Olimpico,Lazio,Porto,2 - 1
+68,4,07/11/2024 20:00,AZ Stadion,AZ Alkmaar,Fenerbahçe,3 - 1
+69,4,07/11/2024 20:00,Stadion mesta Plzne,Viktoria Plzen,Real Sociedad,2 - 1
+70,4,07/11/2024 20:00,Volksparkstadion,Dynamo Kyiv,Ferencváros,0 - 4
+71,4,07/11/2024 20:00,Rhein-Neckar-Arena,Hoffenheim,Lyon,2 - 2
+72,4,07/11/2024 20:00,Daugava,RFS,Anderlecht,1 - 1
+73,5,28/11/2024 17:45,Stadio Olimpico,Lazio,Ludogorets,0 - 0
+74,5,28/11/2024 17:45,AZ Stadion,AZ Alkmaar,Galatasaray,1 - 1
+75,5,28/11/2024 17:45,Tofiq Bahramov Republican Stadium,Qarabag,Lyon,1 - 4
+76,5,28/11/2024 17:45,Volksparkstadion,Dynamo Kyiv,Viktoria Plzen,1 - 2
+77,5,28/11/2024 17:45,Estadio de San Mamés,Athletic Club,Elfsborg,3 - 0
+78,5,28/11/2024 17:45,RSC Anderlecht Stadium,Anderlecht,Porto,2 - 2
+79,5,28/11/2024 17:45,Nagyerdei Stadion,Besiktas,M. Tel-Aviv,1 - 3
+80,5,28/11/2024 17:45,Daugava,RFS,PAOK,0 - 2
+81,5,28/11/2024 20:00,Old Trafford,Man Utd,Bodø/Glimt,3 - 2
+82,5,28/11/2024 20:00,Tottenham Hotspur Stadium,Tottenham,Roma,2 - 2
+83,5,28/11/2024 20:00,Eden Arena,Slavia Praha,Fenerbahçe,1 - 2
+84,5,28/11/2024 20:00,REALA ARENA,Real Sociedad,Ajax,2 - 0
+85,5,28/11/2024 20:00,Estádio Municipal de Braga,Braga,Hoffenheim,3 - 0
+86,5,28/11/2024 20:00,Ferencváros Stadion,Ferencváros,Malmö,4 - 1
+87,5,28/11/2024 20:00,Arena Herning,Midtjylland,Frankfurt,1 - 2
+88,5,28/11/2024 20:00,Grand Stade de Nice,Nice,Rangers,1 - 4
+89,5,28/11/2024 20:00,FC Twente Stadion,Twente,Union SG,0 - 1
+90,5,28/11/2024 20:00,National Arena,FCSB,Olympiacos,0 - 0
+91,6,11/12/2024 15:30,Fenerbahçe Sükrü Saracoglu Spor Kompleksi,Fenerbahçe,Athletic Club,0 - 2
+92,6,12/12/2024 17:45,Stadio Olimpico,Roma,Braga,3 - 0
+93,6,12/12/2024 17:45,Stadio Georgios Karaiskakis,Olympiacos,Twente,0 - 0
+94,6,12/12/2024 17:45,Toumba Stadium,PAOK,Ferencváros,5 - 0
+95,6,12/12/2024 17:45,Stadion mesta Plzne,Viktoria Plzen,Man Utd,1 - 2
+96,6,12/12/2024 17:45,King Baudouin Stadium,Union SG,Nice,2 - 1
+97,6,12/12/2024 17:45,Ludogorets Arena,Ludogorets,AZ Alkmaar,2 - 2
+98,6,12/12/2024 17:45,Malmö New Stadium,Malmö,Galatasaray,2 - 2
+99,6,12/12/2024 17:45,Rhein-Neckar-Arena,Hoffenheim,FCSB,0 - 0
+100,6,12/12/2024 20:00,Estádio do Dragão,Porto,Midtjylland,2 - 0
+101,6,12/12/2024 20:00,Johan Cruijff ArenA,Ajax,Lazio,1 - 3
+102,6,12/12/2024 20:00,Ibrox Stadium,Rangers,Tottenham,1 - 1
+103,6,12/12/2024 20:00,Eden Arena,Slavia Praha,Anderlecht,1 - 2
+104,6,12/12/2024 20:00,REALA ARENA,Real Sociedad,Dynamo Kyiv,3 - 0
+105,6,12/12/2024 20:00,OL Stadium,Lyon,Frankfurt,3 - 2
+106,6,12/12/2024 20:00,Stadion FK Partizan,M. Tel-Aviv,RFS,2 - 1
+107,6,12/12/2024 20:00,Aspmyra,Bodø/Glimt,Besiktas,2 - 1
+108,6,12/12/2024 20:00,Borås Arena,Elfsborg,Qarabag,1 - 0
+109,7,21/01/2025 15:30,Ali Sami Yen Spor Kompleksi,Galatasaray,Dynamo Kyiv,3 - 3
+110,7,22/01/2025 15:30,Besiktas Stadium,Besiktas,Athletic Club,4 - 1
+111,7,23/01/2025 17:45,Estádio do Dragão,Porto,Olympiacos,0 - 1
+112,7,23/01/2025 17:45,AZ Stadion,AZ Alkmaar,Roma,1 - 0
+113,7,23/01/2025 17:45,Fenerbahçe Sükrü Saracoglu Spor Kompleksi,Fenerbahçe,Lyon,0 - 0
+114,7,23/01/2025 17:45,Tofiq Bahramov Republican Stadium,Qarabag,FCSB,2 - 3
+115,7,23/01/2025 17:45,Stadion mesta Plzne,Viktoria Plzen,Anderlecht,2 - 0
+116,7,23/01/2025 17:45,Aspmyra,Bodø/Glimt,M. Tel-Aviv,3 - 1
+117,7,23/01/2025 17:45,Malmö New Stadium,Malmö,Twente,2 - 3
+118,7,23/01/2025 17:45,Rhein-Neckar-Arena,Hoffenheim,Tottenham,2 - 3
+119,7,23/01/2025 20:00,Old Trafford,Man Utd,Rangers,2 - 1
+120,7,23/01/2025 20:00,Frankfurt Stadion,Frankfurt,Ferencváros,2 - 0
+121,7,23/01/2025 20:00,Stadio Olimpico,Lazio,Real Sociedad,3 - 1
+122,7,23/01/2025 20:00,Toumba Stadium,PAOK,Slavia Praha,2 - 0
+123,7,23/01/2025 20:00,King Baudouin Stadium,Union SG,Braga,2 - 1
+124,7,23/01/2025 20:00,Ludogorets Arena,Ludogorets,Midtjylland,0 - 2
+125,7,23/01/2025 20:00,Daugava,RFS,Ajax,1 - 0
+126,7,23/01/2025 20:00,Borås Arena,Elfsborg,Nice,1 - 0
+127,8,30/01/2025 20:00,Stadio Olimpico,Roma,Frankfurt,2 - 0
+128,8,30/01/2025 20:00,Johan Cruijff ArenA,Ajax,Galatasaray,2 - 1
+129,8,30/01/2025 20:00,Ibrox Stadium,Rangers,Union SG,2 - 1
+130,8,30/01/2025 20:00,Tottenham Hotspur Stadium,Tottenham,Elfsborg,3 - 0
+131,8,30/01/2025 20:00,Eden Arena,Slavia Praha,Malmö,2 - 2
+132,8,30/01/2025 20:00,REALA ARENA,Real Sociedad,PAOK,2 - 0
+133,8,30/01/2025 20:00,Estádio Municipal de Braga,Braga,Lazio,1 - 0
+134,8,30/01/2025 20:00,Stadio Georgios Karaiskakis,Olympiacos,Qarabag,3 - 0
+135,8,30/01/2025 20:00,OL Stadium,Lyon,Ludogorets,1 - 1
+136,8,30/01/2025 20:00,Stadion FK Partizan,M. Tel-Aviv,Porto,0 - 1
+137,8,30/01/2025 20:00,Ferencváros Stadion,Ferencváros,AZ Alkmaar,4 - 3
+138,8,30/01/2025 20:00,Volksparkstadion,Dynamo Kyiv,RFS,1 - 0
+139,8,30/01/2025 20:00,Arena Herning,Midtjylland,Fenerbahçe,2 - 2
+140,8,30/01/2025 20:00,Estadio de San Mamés,Athletic Club,Viktoria Plzen,3 - 1
+141,8,30/01/2025 20:00,Grand Stade de Nice,Nice,Bodø/Glimt,1 - 1
+142,8,30/01/2025 20:00,RSC Anderlecht Stadium,Anderlecht,Hoffenheim,3 - 4
+143,8,30/01/2025 20:00,FC Twente Stadion,Twente,Besiktas,1 - 0
+144,8,30/01/2025 20:00,National Arena,FCSB,Man Utd,0 - 2
+145,Play-off Game 1,13/02/2025 17:45,Ferencváros Stadion,Ferencváros,Viktoria Plzen,1 - 0
+146,Play-off Game 1,13/02/2025 17:45,King Baudouin Stadium,Union SG,Ajax,0 - 2
+147,Play-off Game 1,13/02/2025 17:45,Arena Herning,Midtjylland,Real Sociedad,1 - 2
+148,Play-off Game 1,13/02/2025 17:45,Fenerbahçe Sükrü Saracoglu Spor Kompleksi,Fenerbahçe,Anderlecht,3 - 0
+149,Play-off Game 1,13/02/2025 20:00,FC Twente Stadion,Twente,Bodø/Glimt,2 - 1
+150,Play-off Game 1,13/02/2025 20:00,AZ Stadion,AZ Alkmaar,Galatasaray,4 - 1
+151,Play-off Game 1,13/02/2025 20:00,Toumba Stadium,PAOK,FCSB,1 - 2
+152,Play-off Game 1,13/02/2025 20:00,Estádio do Dragão,Porto,Roma,1 - 1
+153,Play-off Game 2,20/02/2025 17:45,Aspmyra,Bodø/Glimt,Twente,5 - 2
+154,Play-off Game 2,20/02/2025 17:45,Ali Sami Yen Spor Kompleksi,Galatasaray,AZ Alkmaar,2 - 2
+155,Play-off Game 2,20/02/2025 17:45,National Arena,FCSB,PAOK,2 - 0
+156,Play-off Game 2,20/02/2025 17:45,Stadio Olimpico,Roma,Porto,3 - 2
+157,Play-off Game 2,20/02/2025 20:00,Stadion mesta Plzne,Viktoria Plzen,Ferencváros,3 - 0
+158,Play-off Game 2,20/02/2025 20:00,Johan Cruijff ArenA,Ajax,Union SG,1 - 2
+159,Play-off Game 2,20/02/2025 20:00,REALA ARENA,Real Sociedad,Midtjylland,5 - 2
+160,Play-off Game 2,20/02/2025 20:00,RSC Anderlecht Stadium,Anderlecht,Fenerbahçe,2 - 2
+161,R16 Game 1,06/03/2025 17:45,AZ Stadion,AZ Alkmaar,Tottenham,1 - 0
+162,R16 Game 1,06/03/2025 17:45,REALA ARENA,Real Sociedad,Man Utd,1 - 1
+163,R16 Game 1,06/03/2025 17:45,National Arena,FCSB,Lyon,1 - 3
+164,R16 Game 1,06/03/2025 17:45,Fenerbahçe Sükrü Saracoglu Spor Kompleksi,Fenerbahçe,Rangers,1 - 3
+165,R16 Game 1,06/03/2025 20:00,Stadion mesta Plzne,Viktoria Plzen,Lazio,1 - 2
+166,R16 Game 1,06/03/2025 20:00,Aspmyra,Bodø/Glimt,Olympiacos,3 - 0
+167,R16 Game 1,06/03/2025 20:00,Johan Cruijff ArenA,Ajax,Frankfurt,1 - 2
+168,R16 Game 1,06/03/2025 20:00,Stadio Olimpico,Roma,Athletic Club,2 - 1
+169,R16 Game 2,13/03/2025 17:45,Stadio Olimpico,Lazio,Viktoria Plzen,1 - 1
+170,R16 Game 2,13/03/2025 17:45,Stadio Georgios Karaiskakis,Olympiacos,Bodø/Glimt,2 - 1
+171,R16 Game 2,13/03/2025 17:45,Frankfurt Stadion,Frankfurt,Ajax,4 - 1
+172,R16 Game 2,13/03/2025 17:45,Estadio de San Mamés,Athletic Club,Roma,3 - 1
+173,R16 Game 2,13/03/2025 20:00,Tottenham Hotspur Stadium,Tottenham,AZ Alkmaar,3 - 1
+174,R16 Game 2,13/03/2025 20:00,Old Trafford,Man Utd,Real Sociedad,4 - 1
+175,R16 Game 2,13/03/2025 20:00,OL Stadium,Lyon,FCSB,4 - 0
+176,R16 Game 2,13/03/2025 20:00,Ibrox Stadium,Rangers,Fenerbahçe,0 - 2
+177,QF Game 1,10/04/2025 16:45,Aspmyra,Bodø/Glimt,Lazio,
+178,QF Game 1,10/04/2025 19:00,Tottenham Hotspur Stadium,Tottenham,Frankfurt,
+179,QF Game 1,10/04/2025 19:00,OL Stadium,Lyon,Man Utd,
+180,QF Game 1,10/04/2025 19:00,Ibrox Stadium,Rangers,Athletic Club,
+181,QF Game 2,17/04/2025 19:00,Stadio Olimpico,Lazio,Bodø/Glimt,
+182,QF Game 2,17/04/2025 19:00,Frankfurt Stadion,Frankfurt,Tottenham,
+183,QF Game 2,17/04/2025 19:00,Old Trafford,Man Utd,Lyon,
+184,QF Game 2,17/04/2025 19:00,Estadio de San Mamés,Athletic Club,Rangers,
