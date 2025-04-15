@@ -1,7 +1,7 @@
 Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 6,1,09/08/2024 20:00,Euroborg,FC Groningen,NAC Breda,4 - 1
 2,1,10/08/2024 16:30,De Kuip,Feyenoord,Willem II,1 - 1
-7,1,10/08/2024 18:45,Goffertstadion,N.E.C. Nijmegen,FC Twente,1 - 2
+7,1,10/08/2024 18:45,Goffertstadion,N.E.C. Nijmegen,Twente,1 - 2
 5,1,10/08/2024 20:00,Yanmar Stadion,Almere City FC,AZ,0 - 1
 1,1,10/08/2024 21:00,Philips Stadion,PSV,RKC Waalwijk,5 - 1
 9,1,11/08/2024 12:15,Het Kasteel,Sparta Rotterdam,Heracles Almelo,0 - 0
@@ -10,7 +10,7 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 8,1,11/08/2024 16:45,Johan Cruyff Arena,Ajax,sc Heerenveen,1 - 0
 14,2,16/08/2024 20:00,Fortuna Sittard Stadion,Fortuna Sittard,Almere City FC,3 - 0
 13,2,17/08/2024 16:30,Abe Lenstra Stadion,sc Heerenveen,FC Utrecht,1 - 1
-18,2,17/08/2024 18:45,De Grolsch Veste,FC Twente,Sparta Rotterdam,1 - 1
+18,2,17/08/2024 18:45,De Grolsch Veste,Twente,Sparta Rotterdam,1 - 1
 11,2,17/08/2024 20:00,AFAS Stadion,AZ,N.E.C. Nijmegen,1 - 0
 16,2,17/08/2024 21:00,Mandemakers Stadion,RKC Waalwijk,FC Groningen,1 - 2
 15,2,18/08/2024 12:15,Erve Asito,Heracles Almelo,PSV,1 - 3
@@ -24,18 +24,18 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 23,3,25/08/2024 14:30,Het Kasteel,Sparta Rotterdam,Feyenoord,1 - 1
 26,3,25/08/2024 14:30,Erve Asito,Heracles Almelo,Willem II,1 - 1
 25,3,25/08/2024 16:45,De Adelaarshorst,Go Ahead Eagles,RKC Waalwijk,2 - 0
-22,3,17/09/2024 20:00,De Grolsch Veste,FC Twente,sc Heerenveen,2 - 0
+22,3,17/09/2024 20:00,De Grolsch Veste,Twente,sc Heerenveen,2 - 0
 21,3,18/09/2024 20:00,Johan Cruyff Arena,Ajax,Fortuna Sittard,5 - 0
 35,4,30/08/2024 20:00,Mandemakers Stadion,RKC Waalwijk,AZ,0 - 3
 29,4,31/08/2024 16:30,Yanmar Stadion,Almere City FC,FC Groningen,1 - 1
 30,4,31/08/2024 18:45,Fortuna Sittard Stadion,Fortuna Sittard,N.E.C. Nijmegen,0 - 3
 33,4,31/08/2024 20:00,Abe Lenstra Stadion,sc Heerenveen,NAC Breda,4 - 0
 31,4,31/08/2024 21:00,Koning Willem II Stadion,Willem II,Sparta Rotterdam,1 - 2
-32,4,01/09/2024 12:15,Stadion Galgenwaard,FC Utrecht,FC Twente,2 - 1
+32,4,01/09/2024 12:15,Stadion Galgenwaard,FC Utrecht,Twente,2 - 1
 36,4,01/09/2024 14:30,MAC³PARK Stadion,PEC Zwolle,Heracles Almelo,3 - 0
 34,4,01/09/2024 16:45,Philips Stadion,PSV,Go Ahead Eagles,3 - 0
 28,4,30/10/2024 18:00,De Kuip,Feyenoord,Ajax,0 - 2
-39,5,14/09/2024 16:30,De Grolsch Veste,FC Twente,PEC Zwolle,1 - 1
+39,5,14/09/2024 16:30,De Grolsch Veste,Twente,PEC Zwolle,1 - 1
 41,5,14/09/2024 16:30,Philips Stadion,PSV,N.E.C. Nijmegen,2 - 0
 42,5,14/09/2024 18:45,Euroborg,FC Groningen,Feyenoord,2 - 2
 38,5,14/09/2024 20:00,Rat Verlegh Stadion,NAC Breda,Fortuna Sittard,1 - 0
@@ -51,7 +51,7 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 48,6,21/09/2024 21:00,Goffertstadion,N.E.C. Nijmegen,Heracles Almelo,1 - 2
 53,6,22/09/2024 12:15,Abe Lenstra Stadion,sc Heerenveen,FC Groningen,2 - 1
 47,6,22/09/2024 14:30,De Kuip,Feyenoord,NAC Breda,2 - 0
-54,6,22/09/2024 14:30,Yanmar Stadion,Almere City FC,FC Twente,0 - 5
+54,6,22/09/2024 14:30,Yanmar Stadion,Almere City FC,Twente,0 - 5
 49,6,22/09/2024 16:45,Fortuna Sittard Stadion,Fortuna Sittard,PSV,1 - 3
 60,7,27/09/2024 20:00,Erve Asito,Heracles Almelo,sc Heerenveen,2 - 1
 63,7,28/09/2024 16:30,Koning Willem II Stadion,Willem II,PSV,0 - 2
@@ -59,7 +59,7 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 55,7,28/09/2024 21:00,Het Kasteel,Sparta Rotterdam,Fortuna Sittard,1 - 1
 62,7,29/09/2024 12:15,MAC³PARK Stadion,PEC Zwolle,Almere City FC,1 - 0
 56,7,29/09/2024 14:30,Euroborg,FC Groningen,Go Ahead Eagles,0 - 1
-57,7,29/09/2024 14:30,De Grolsch Veste,FC Twente,NAC Breda,1 - 0
+57,7,29/09/2024 14:30,De Grolsch Veste,Twente,NAC Breda,1 - 0
 59,7,29/09/2024 16:45,Mandemakers Stadion,RKC Waalwijk,Ajax,0 - 2
 61,7,29/09/2024 20:00,AFAS Stadion,AZ,FC Utrecht,1 - 2
 64,8,04/10/2024 20:00,Yanmar Stadion,Almere City FC,Willem II,0 - 1
@@ -68,13 +68,13 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 71,8,05/10/2024 21:00,Stadion Galgenwaard,FC Utrecht,RKC Waalwijk,3 - 2
 69,8,06/10/2024 12:15,De Adelaarshorst,Go Ahead Eagles,Heracles Almelo,4 - 1
 65,8,06/10/2024 14:30,Abe Lenstra Stadion,sc Heerenveen,PEC Zwolle,1 - 1
-72,8,06/10/2024 14:30,De Kuip,Feyenoord,FC Twente,2 - 1
+72,8,06/10/2024 14:30,De Kuip,Feyenoord,Twente,2 - 1
 68,8,06/10/2024 16:45,Johan Cruyff Arena,Ajax,FC Groningen,3 - 1
 66,8,06/10/2024 20:00,Fortuna Sittard Stadion,Fortuna Sittard,AZ,1 - 0
 73,9,19/10/2024 16:30,Het Kasteel,Sparta Rotterdam,Almere City FC,2 - 2
 78,9,19/10/2024 18:45,AFAS Stadion,AZ,PSV,1 - 2
 77,9,19/10/2024 20:00,Goffertstadion,N.E.C. Nijmegen,sc Heerenveen,3 - 0
-81,9,19/10/2024 20:00,Mandemakers Stadion,RKC Waalwijk,FC Twente,2 - 2
+81,9,19/10/2024 20:00,Mandemakers Stadion,RKC Waalwijk,Twente,2 - 2
 79,9,19/10/2024 21:00,De Adelaarshorst,Go Ahead Eagles,Feyenoord,1 - 5
 76,9,20/10/2024 12:15,Koning Willem II Stadion,Willem II,Fortuna Sittard,0 - 0
 75,9,20/10/2024 14:30,Erve Asito,Heracles Almelo,Ajax,3 - 4
@@ -86,10 +86,10 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 88,10,26/10/2024 20:00,Rat Verlegh Stadion,NAC Breda,RKC Waalwijk,4 - 1
 84,10,26/10/2024 21:00,Abe Lenstra Stadion,sc Heerenveen,Sparta Rotterdam,2 - 0
 90,10,27/10/2024 12:15,Stadion Galgenwaard,FC Utrecht,Feyenoord,0 - 2
-82,10,27/10/2024 14:30,De Grolsch Veste,FC Twente,Heracles Almelo,5 - 0
+82,10,27/10/2024 14:30,De Grolsch Veste,Twente,Heracles Almelo,5 - 0
 87,10,27/10/2024 16:45,Johan Cruyff Arena,Ajax,Willem II,1 - 0
 83,10,27/10/2024 20:00,AFAS Stadion,AZ,Go Ahead Eagles,2 - 2
-97,11,02/11/2024 16:30,Koning Willem II Stadion,Willem II,FC Twente,0 - 1
+97,11,02/11/2024 16:30,Koning Willem II Stadion,Willem II,Twente,0 - 1
 91,11,02/11/2024 18:45,Erve Asito,Heracles Almelo,NAC Breda,2 - 0
 93,11,02/11/2024 18:45,Johan Cruyff Arena,Ajax,PSV,3 - 2
 96,11,02/11/2024 21:00,Fortuna Sittard Stadion,Fortuna Sittard,sc Heerenveen,3 - 0
@@ -105,13 +105,13 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 106,12,09/11/2024 21:00,Mandemakers Stadion,RKC Waalwijk,N.E.C. Nijmegen,0 - 3
 108,12,10/11/2024 12:15,Yanmar Stadion,Almere City FC,Feyenoord,1 - 4
 101,12,10/11/2024 14:30,Abe Lenstra Stadion,sc Heerenveen,Go Ahead Eagles,1 - 0
-107,12,10/11/2024 14:30,De Grolsch Veste,FC Twente,Ajax,2 - 2
+107,12,10/11/2024 14:30,De Grolsch Veste,Twente,Ajax,2 - 2
 103,12,10/11/2024 16:45,AFAS Stadion,AZ,Willem II,1 - 2
 114,13,23/11/2024 16:30,De Adelaarshorst,Go Ahead Eagles,Almere City FC,3 - 0
 109,13,23/11/2024 18:45,Erve Asito,Heracles Almelo,RKC Waalwijk,2 - 2
 115,13,23/11/2024 18:45,De Kuip,Feyenoord,sc Heerenveen,3 - 0
 110,13,23/11/2024 21:00,Philips Stadion,PSV,FC Groningen,5 - 0
-113,13,23/11/2024 21:00,Fortuna Sittard Stadion,Fortuna Sittard,FC Twente,1 - 2
+113,13,23/11/2024 21:00,Fortuna Sittard Stadion,Fortuna Sittard,Twente,1 - 2
 117,13,24/11/2024 12:15,Goffertstadion,N.E.C. Nijmegen,FC Utrecht,1 - 2
 111,13,24/11/2024 14:30,Koning Willem II Stadion,Willem II,NAC Breda,2 - 2
 116,13,24/11/2024 14:30,Het Kasteel,Sparta Rotterdam,AZ,1 - 2
@@ -123,9 +123,9 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 123,14,30/11/2024 21:00,MAC³PARK Stadion,PEC Zwolle,Sparta Rotterdam,1 - 0
 126,14,01/12/2024 12:15,Stadion Galgenwaard,FC Utrecht,PSV,2 - 5
 118,14,01/12/2024 14:30,AFAS Stadion,AZ,Heracles Almelo,1 - 0
-125,14,01/12/2024 14:30,De Grolsch Veste,FC Twente,Go Ahead Eagles,3 - 2
+125,14,01/12/2024 14:30,De Grolsch Veste,Twente,Go Ahead Eagles,3 - 2
 122,14,01/12/2024 16:45,Goffertstadion,N.E.C. Nijmegen,Ajax,1 - 2
-134,15,06/12/2024 20:00,Philips Stadion,PSV,FC Twente,6 - 1
+134,15,06/12/2024 20:00,Philips Stadion,PSV,Twente,6 - 1
 127,15,07/12/2024 16:30,De Adelaarshorst,Go Ahead Eagles,N.E.C. Nijmegen,5 - 0
 131,15,07/12/2024 18:45,Het Kasteel,Sparta Rotterdam,NAC Breda,0 - 2
 130,15,07/12/2024 20:00,Mandemakers Stadion,RKC Waalwijk,Feyenoord,2 - 3
@@ -140,13 +140,13 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 139,16,14/12/2024 21:00,De Kuip,Feyenoord,Heracles Almelo,5 - 2
 144,16,15/12/2024 12:15,Stadion Galgenwaard,FC Utrecht,Go Ahead Eagles,3 - 3
 136,16,15/12/2024 14:30,Goffertstadion,N.E.C. Nijmegen,Sparta Rotterdam,1 - 1
-140,16,15/12/2024 14:30,De Grolsch Veste,FC Twente,FC Groningen,2 - 0
+140,16,15/12/2024 14:30,De Grolsch Veste,Twente,FC Groningen,2 - 0
 138,16,15/12/2024 16:45,Johan Cruyff Arena,Ajax,Almere City FC,3 - 0
 142,16,15/12/2024 20:00,Rat Verlegh Stadion,NAC Breda,AZ,1 - 2
 147,17,20/12/2024 20:00,Mandemakers Stadion,RKC Waalwijk,PEC Zwolle,1 - 1
 151,17,21/12/2024 16:30,De Adelaarshorst,Go Ahead Eagles,NAC Breda,2 - 1
 153,17,21/12/2024 18:45,Yanmar Stadion,Almere City FC,sc Heerenveen,3 - 0
-146,17,21/12/2024 20:00,AFAS Stadion,AZ,FC Twente,1 - 0
+146,17,21/12/2024 20:00,AFAS Stadion,AZ,Twente,1 - 0
 150,17,22/12/2024 12:15,Het Kasteel,Sparta Rotterdam,Ajax,0 - 2
 145,17,22/12/2024 14:30,Philips Stadion,PSV,Feyenoord,3 - 0
 152,17,22/12/2024 14:30,Stadion Galgenwaard,FC Utrecht,Fortuna Sittard,2 - 5
@@ -157,7 +157,7 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 158,18,11/01/2025 18:45,Johan Cruyff Arena,Ajax,RKC Waalwijk,2 - 1
 155,18,11/01/2025 20:00,MAC³PARK Stadion,PEC Zwolle,N.E.C. Nijmegen,0 - 1
 156,18,11/01/2025 21:00,Philips Stadion,PSV,AZ,2 - 2
-161,18,12/01/2025 12:15,De Grolsch Veste,FC Twente,Willem II,6 - 2
+161,18,12/01/2025 12:15,De Grolsch Veste,Twente,Willem II,6 - 2
 157,18,12/01/2025 14:30,Euroborg,FC Groningen,Almere City FC,0 - 0
 160,18,12/01/2025 14:30,De Kuip,Feyenoord,FC Utrecht,1 - 2
 154,18,12/01/2025 16:45,Rat Verlegh Stadion,NAC Breda,sc Heerenveen,2 - 4
@@ -165,7 +165,7 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 169,19,18/01/2025 18:45,Stadion Galgenwaard,FC Utrecht,AZ,0 - 0
 165,19,18/01/2025 20:00,Koning Willem II Stadion,Willem II,Feyenoord,1 - 1
 164,19,18/01/2025 21:00,De Adelaarshorst,Go Ahead Eagles,FC Groningen,2 - 1
-166,19,19/01/2025 12:15,Rat Verlegh Stadion,NAC Breda,FC Twente,2 - 1
+166,19,19/01/2025 12:15,Rat Verlegh Stadion,NAC Breda,Twente,2 - 1
 163,19,19/01/2025 14:30,Abe Lenstra Stadion,sc Heerenveen,Ajax,0 - 2
 167,19,19/01/2025 14:30,Yanmar Stadion,Almere City FC,Heracles Almelo,0 - 2
 170,19,19/01/2025 16:45,Goffertstadion,N.E.C. Nijmegen,Fortuna Sittard,4 - 1
@@ -177,7 +177,7 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 176,20,26/01/2025 14:30,Mandemakers Stadion,RKC Waalwijk,Willem II,2 - 0
 172,20,26/01/2025 16:45,AFAS Stadion,AZ,Sparta Rotterdam,1 - 2
 177,20,22/02/2025 20:00,De Kuip,Feyenoord,Almere City FC,2 - 1
-174,20,23/02/2025 14:30,De Grolsch Veste,FC Twente,N.E.C. Nijmegen,2 - 0
+174,20,23/02/2025 14:30,De Grolsch Veste,Twente,N.E.C. Nijmegen,2 - 0
 178,20,23/02/2025 14:30,Johan Cruyff Arena,Ajax,Go Ahead Eagles,2 - 0
 182,21,31/01/2025 20:00,Rat Verlegh Stadion,NAC Breda,Heracles Almelo,1 - 1
 187,21,01/02/2025 18:45,MAC³PARK Stadion,PEC Zwolle,FC Utrecht,3 - 3
@@ -185,7 +185,7 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 184,21,01/02/2025 21:00,Goffertstadion,N.E.C. Nijmegen,PSV,3 - 3
 189,21,02/02/2025 12:15,Yanmar Stadion,Almere City FC,RKC Waalwijk,1 - 4
 186,21,02/02/2025 14:30,Johan Cruyff Arena,Ajax,Feyenoord,2 - 1
-188,21,02/02/2025 14:30,De Adelaarshorst,Go Ahead Eagles,FC Twente,2 - 2
+188,21,02/02/2025 14:30,De Adelaarshorst,Go Ahead Eagles,Twente,2 - 2
 181,21,02/02/2025 16:45,Het Kasteel,Sparta Rotterdam,FC Groningen,1 - 0
 185,21,02/02/2025 20:00,Koning Willem II Stadion,Willem II,AZ,0 - 2
 196,22,08/02/2025 16:30,Erve Asito,Heracles Almelo,Go Ahead Eagles,4 - 2
@@ -195,7 +195,7 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 197,22,09/02/2025 12:15,Stadion Galgenwaard,FC Utrecht,Almere City FC,0 - 1
 192,22,09/02/2025 14:30,Mandemakers Stadion,RKC Waalwijk,NAC Breda,5 - 0
 198,22,09/02/2025 14:30,Fortuna Sittard Stadion,Fortuna Sittard,Ajax,0 - 2
-191,22,09/02/2025 16:45,Abe Lenstra Stadion,sc Heerenveen,FC Twente,3 - 3
+191,22,09/02/2025 16:45,Abe Lenstra Stadion,sc Heerenveen,Twente,3 - 3
 194,22,09/02/2025 16:45,AFAS Stadion,AZ,PEC Zwolle,2 - 0
 199,23,14/02/2025 20:00,De Adelaarshorst,Go Ahead Eagles,Sparta Rotterdam,1 - 0
 204,23,15/02/2025 16:30,Philips Stadion,PSV,FC Utrecht,2 - 2
@@ -203,13 +203,13 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 206,23,15/02/2025 21:00,Koning Willem II Stadion,Willem II,FC Groningen,1 - 3
 202,23,16/02/2025 12:15,Goffertstadion,N.E.C. Nijmegen,Almere City FC,2 - 2
 200,23,16/02/2025 14:30,MAC³PARK Stadion,PEC Zwolle,sc Heerenveen,1 - 1
-201,23,16/02/2025 14:30,De Grolsch Veste,FC Twente,RKC Waalwijk,2 - 0
+201,23,16/02/2025 14:30,De Grolsch Veste,Twente,RKC Waalwijk,2 - 0
 203,23,16/02/2025 16:45,Johan Cruyff Arena,Ajax,Heracles Almelo,4 - 0
 205,23,23/02/2025 16:45,AFAS Stadion,AZ,Fortuna Sittard,1 - 0
 215,24,28/02/2025 20:00,Mandemakers Stadion,RKC Waalwijk,Fortuna Sittard,1 - 2
 212,24,01/03/2025 16:30,Stadion Galgenwaard,FC Utrecht,NAC Breda,1 - 0
 208,24,01/03/2025 18:45,De Adelaarshorst,Go Ahead Eagles,PSV,3 - 2
-211,24,01/03/2025 20:00,Euroborg,FC Groningen,FC Twente,1 - 1
+211,24,01/03/2025 20:00,Euroborg,FC Groningen,Twente,1 - 1
 216,24,01/03/2025 21:00,De Kuip,Feyenoord,N.E.C. Nijmegen,0 - 0
 214,24,02/03/2025 12:15,Abe Lenstra Stadion,sc Heerenveen,AZ,3 - 1
 209,24,02/03/2025 14:30,Erve Asito,Heracles Almelo,PEC Zwolle,4 - 2
@@ -221,7 +221,7 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 220,25,09/03/2025 12:15,Koning Willem II Stadion,Willem II,FC Utrecht,2 - 3
 217,25,09/03/2025 14:30,Goffertstadion,N.E.C. Nijmegen,Go Ahead Eagles,2 - 3
 223,25,09/03/2025 14:30,MAC³PARK Stadion,PEC Zwolle,Ajax,0 - 1
-219,25,09/03/2025 16:45,De Grolsch Veste,FC Twente,Almere City FC,1 - 0
+219,25,09/03/2025 16:45,De Grolsch Veste,Twente,Almere City FC,1 - 0
 224,25,01/04/2025 20:00,AFAS Stadion,AZ,RKC Waalwijk,2 - 2
 225,25,02/04/2025 20:00,De Kuip,Feyenoord,FC Groningen,4 - 1
 232,26,14/03/2025 20:00,Yanmar Stadion,Almere City FC,NAC Breda,1 - 1
@@ -230,7 +230,7 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 234,26,15/03/2025 20:00,Mandemakers Stadion,RKC Waalwijk,PSV,0 - 3
 226,26,15/03/2025 21:00,Abe Lenstra Stadion,sc Heerenveen,Heracles Almelo,1 - 1
 229,26,16/03/2025 12:15,De Adelaarshorst,Go Ahead Eagles,Willem II,1 - 0
-230,26,16/03/2025 14:30,De Grolsch Veste,FC Twente,Feyenoord,2 - 6
+230,26,16/03/2025 14:30,De Grolsch Veste,Twente,Feyenoord,2 - 6
 231,26,16/03/2025 14:30,Euroborg,FC Groningen,Fortuna Sittard,1 - 0
 227,26,16/03/2025 16:45,Johan Cruyff Arena,Ajax,AZ,2 - 2
 236,27,29/03/2025 16:30,Rat Verlegh Stadion,NAC Breda,FC Groningen,1 - 1
@@ -239,30 +239,30 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 241,27,29/03/2025 21:00,MAC³PARK Stadion,PEC Zwolle,RKC Waalwijk,2 - 0
 243,27,29/03/2025 21:00,Goffertstadion,N.E.C. Nijmegen,AZ,3 - 3
 240,27,30/03/2025 12:15,Stadion Galgenwaard,FC Utrecht,sc Heerenveen,2 - 0
-239,27,30/03/2025 14:30,Erve Asito,Heracles Almelo,FC Twente,2 - 1
+239,27,30/03/2025 14:30,Erve Asito,Heracles Almelo,Twente,2 - 1
 242,27,30/03/2025 14:30,Philips Stadion,PSV,Ajax,0 - 2
 238,27,30/03/2025 16:45,De Kuip,Feyenoord,Go Ahead Eagles,3 - 2
 244,28,04/04/2025 20:00,Abe Lenstra Stadion,sc Heerenveen,Willem II,3 - 1
 251,28,05/04/2025 16:30,AFAS Stadion,AZ,Feyenoord,0 - 1
-249,28,05/04/2025 18:45,De Grolsch Veste,FC Twente,Fortuna Sittard,1 - 1
+249,28,05/04/2025 18:45,De Grolsch Veste,Twente,Fortuna Sittard,1 - 1
 247,28,05/04/2025 20:00,Euroborg,FC Groningen,PSV,1 - 3
 246,28,05/04/2025 21:00,Yanmar Stadion,Almere City FC,PEC Zwolle,2 - 2
 245,28,06/04/2025 12:15,Mandemakers Stadion,RKC Waalwijk,Heracles Almelo,0 - 0
 248,28,06/04/2025 14:30,De Adelaarshorst,Go Ahead Eagles,FC Utrecht,2 - 2
 250,28,06/04/2025 14:30,Het Kasteel,Sparta Rotterdam,N.E.C. Nijmegen,2 - 0
 252,28,06/04/2025 16:45,Johan Cruyff Arena,Ajax,NAC Breda,3 - 1
-256,29,11/04/2025 20:00,Goffertstadion,N.E.C. Nijmegen,RKC Waalwijk,
-261,29,12/04/2025 16:30,Fortuna Sittard Stadion,Fortuna Sittard,Feyenoord,
-258,29,12/04/2025 18:45,Het Kasteel,Sparta Rotterdam,sc Heerenveen,
-259,29,12/04/2025 20:00,Philips Stadion,PSV,Almere City FC,
-254,29,12/04/2025 21:00,Rat Verlegh Stadion,NAC Breda,Go Ahead Eagles,
-260,29,13/04/2025 12:15,Stadion Galgenwaard,FC Utrecht,FC Groningen,
-255,29,13/04/2025 14:30,Erve Asito,Heracles Almelo,AZ,
-257,29,13/04/2025 14:30,MAC³PARK Stadion,PEC Zwolle,FC Twente,
-253,29,13/04/2025 16:45,Koning Willem II Stadion,Willem II,Ajax,
+256,29,11/04/2025 20:00,Goffertstadion,N.E.C. Nijmegen,RKC Waalwijk,2 - 1
+261,29,12/04/2025 16:30,Fortuna Sittard Stadion,Fortuna Sittard,Feyenoord,0 - 2
+258,29,12/04/2025 18:45,Het Kasteel,Sparta Rotterdam,sc Heerenveen,3 - 1
+259,29,12/04/2025 20:00,Philips Stadion,PSV,Almere City FC,5 - 0
+254,29,12/04/2025 21:00,Rat Verlegh Stadion,NAC Breda,Go Ahead Eagles,1 - 1
+260,29,13/04/2025 12:15,Stadion Galgenwaard,FC Utrecht,FC Groningen,3 - 1
+255,29,13/04/2025 14:30,Erve Asito,Heracles Almelo,AZ,1 - 0
+257,29,13/04/2025 14:30,MAC³PARK Stadion,PEC Zwolle,Twente,1 - 1
+253,29,13/04/2025 16:45,Koning Willem II Stadion,Willem II,Ajax,1 - 2
 263,30,23/04/2025 20:00,Euroborg,FC Groningen,Heracles Almelo,
 266,30,24/04/2025 18:45,AFAS Stadion,AZ,NAC Breda,
-269,30,24/04/2025 21:00,De Grolsch Veste,FC Twente,PSV,
+269,30,24/04/2025 21:00,De Grolsch Veste,Twente,PSV,
 268,30,25/04/2025 18:45,Mandemakers Stadion,RKC Waalwijk,FC Utrecht,
 267,30,25/04/2025 21:00,De Kuip,Feyenoord,PEC Zwolle,
 265,30,27/04/2025 12:15,Fortuna Sittard Stadion,Fortuna Sittard,Willem II,
@@ -277,18 +277,18 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 273,31,03/05/2025 21:00,Philips Stadion,PSV,Fortuna Sittard,
 279,31,04/05/2025 12:15,Rat Verlegh Stadion,NAC Breda,PEC Zwolle,
 271,31,04/05/2025 14:30,De Adelaarshorst,Go Ahead Eagles,AZ,
-276,31,04/05/2025 14:30,Het Kasteel,Sparta Rotterdam,FC Twente,
+276,31,04/05/2025 14:30,Het Kasteel,Sparta Rotterdam,Twente,
 282,32,09/05/2025 20:00,Koning Willem II Stadion,Willem II,Heracles Almelo,
 283,32,10/05/2025 16:30,Mandemakers Stadion,RKC Waalwijk,sc Heerenveen,
 284,32,10/05/2025 18:45,Fortuna Sittard Stadion,Fortuna Sittard,NAC Breda,
-285,32,10/05/2025 18:45,De Grolsch Veste,FC Twente,FC Utrecht,
+285,32,10/05/2025 18:45,De Grolsch Veste,Twente,FC Utrecht,
 288,32,10/05/2025 21:00,Yanmar Stadion,Almere City FC,Sparta Rotterdam,
 280,32,11/05/2025 12:15,MAC³PARK Stadion,PEC Zwolle,Go Ahead Eagles,
 281,32,11/05/2025 14:30,De Kuip,Feyenoord,PSV,
 286,32,11/05/2025 16:45,Johan Cruyff Arena,Ajax,N.E.C. Nijmegen,
 287,32,11/05/2025 16:45,AFAS Stadion,AZ,FC Groningen,
 289,33,14/05/2025 20:00,Yanmar Stadion,Almere City FC,Fortuna Sittard,
-290,33,14/05/2025 20:00,De Grolsch Veste,FC Twente,AZ,
+290,33,14/05/2025 20:00,De Grolsch Veste,Twente,AZ,
 291,33,14/05/2025 20:00,Goffertstadion,N.E.C. Nijmegen,NAC Breda,
 292,33,14/05/2025 20:00,Euroborg,FC Groningen,Ajax,
 293,33,14/05/2025 20:00,Philips Stadion,PSV,Heracles Almelo,
@@ -298,7 +298,7 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 297,33,14/05/2025 20:00,De Adelaarshorst,Go Ahead Eagles,sc Heerenveen,
 298,34,18/05/2025 14:30,MAC³PARK Stadion,PEC Zwolle,FC Groningen,
 299,34,18/05/2025 14:30,Fortuna Sittard Stadion,Fortuna Sittard,FC Utrecht,
-300,34,18/05/2025 14:30,Johan Cruyff Arena,Ajax,FC Twente,
+300,34,18/05/2025 14:30,Johan Cruyff Arena,Ajax,Twente,
 301,34,18/05/2025 14:30,Het Kasteel,Sparta Rotterdam,PSV,
 302,34,18/05/2025 14:30,Rat Verlegh Stadion,NAC Breda,Willem II,
 303,34,18/05/2025 14:30,AFAS Stadion,AZ,Almere City FC,

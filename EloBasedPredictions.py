@@ -1,197 +1,152 @@
 import pandas as pd
 from collections import defaultdict
-import math
-import matplotlib.pyplot as plt
-from sklearn.linear_model import LogisticRegression
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import accuracy_score, confusion_matrix, classification_report
-
-
-df = pd.read_csv("CSVs/super_league.csv")
-
-
-df[['Home Goals', 'Away Goals']] = df['Result'].str.extract(r'(\d+)\s*-\s*(\d+)').astype(float)
-
+import tkinter as tk
+from tkinter import ttk, messagebox
 
 BASE_ELO = 1500
-K_BASE = 40
+K = 40
 HOME_ADVANTAGE = 100
 
-
-elo_ratings = defaultdict(lambda: BASE_ELO)
-elo_history = []
-
-
+# Function to compute expected score
 def expected_score(rating_a, rating_b):
-    """Calculate expected score for a team."""
     return 1 / (1 + 10 ** ((rating_b - rating_a) / 400))
 
-
-def dynamic_k_factor(home_team, away_team, home_goals, away_goals, round_info):
-    """Adjust K factor dynamically based on match importance, goal difference, and competition stage."""
-    K = K_BASE
-
-
-    if 'important_match_condition':
-        K = 60
-
-
-    goal_diff = abs(home_goals - away_goals)
+# Function to calculate goal difference multiplier
+def goal_difference_multiplier(goal_diff):
     if goal_diff == 1:
-        multiplier = 1.0
+        return 1.0
     elif goal_diff == 2:
-        multiplier = 1.5
+        return 1.5
     else:
-        multiplier = (11 + goal_diff) / 8.0
+        return (11 + goal_diff) / 8.0
 
-    return K * multiplier
-
-
-def update_elo(home_team, away_team, home_goals, away_goals, round_info):
-    """Update Elo ratings for both teams after a match."""
+# Function to update elo ratings
+def update_elo(elo_ratings, home_team, away_team, home_goals, away_goals):
     R_home = elo_ratings[home_team]
     R_away = elo_ratings[away_team]
 
     R_home_adj = R_home + HOME_ADVANTAGE
-
     E_home = expected_score(R_home_adj, R_away)
     E_away = expected_score(R_away, R_home_adj)
 
     if home_goals > away_goals:
-        S_home = 1
-        S_away = 0
+        S_home, S_away = 1, 0
     elif home_goals == away_goals:
-        S_home = 0.5
-        S_away = 0.5
+        S_home = S_away = 0.5
     else:
-        S_home = 0  # Away team wins
-        S_away = 1
+        S_home, S_away = 0, 1
 
+    multiplier = goal_difference_multiplier(abs(home_goals - away_goals))
+    K_adj = K * multiplier
 
-    adjusted_K = dynamic_k_factor(home_team, away_team, home_goals, away_goals, round_info)
-
-
-    R_home_new = R_home + adjusted_K * (S_home - E_home)
-    R_away_new = R_away + adjusted_K * (S_away - E_away)
-
+    R_home_new = R_home + K_adj * (S_home - E_home)
+    R_away_new = R_away + K_adj * (S_away - E_away)
 
     elo_ratings[home_team] = R_home_new
     elo_ratings[away_team] = R_away_new
 
-    
-    elo_history.append({
-        'Round': round_info,
-        'Match': f"{home_team} vs {away_team}",
-        'Home Team': home_team,
-        'Away Team': away_team,
-        'Home Goals': home_goals,
-        'Away Goals': away_goals,
-        'Home Elo Before': R_home,
-        'Away Elo Before': R_away,
-        'Home Elo After': R_home_new,
-        'Away Elo After': R_away_new
-    })
+# Load league data and return unique teams
+def load_league_teams(file):
+    df = pd.read_csv(f"CSVs/{file}")
+    return sorted(set(df['Home Team']).union(df['Away Team']))
 
+# Recalculate elo from match history
+def calculate_elo_from_file(files):
+    elo_ratings = defaultdict(lambda: BASE_ELO)
+    for file in files:
+        df = pd.read_csv(f"CSVs/{file}")
+        df[['Home Goals', 'Away Goals']] = df['Result'].str.extract(r'(\d+)\s*-\s*(\d+)').astype(float)
+        for _, row in df.iterrows():
+            if pd.notna(row['Home Goals']) and pd.notna(row['Away Goals']):
+                update_elo(elo_ratings, row['Home Team'], row['Away Team'], row['Home Goals'], row['Away Goals'])
+    return elo_ratings
 
+# Predict outcome of match
+def predict_outcome():
+    home_team = home_team_var.get()
+    away_team = away_team_var.get()
+    home_league = home_league_var.get()
+    away_league = away_league_var.get()
+    europe_home = european_var_home.get()
+    europe_away = european_var_away.get()
 
-for _, row in df.iterrows():
-    if pd.notna(row['Home Goals']) and pd.notna(row['Away Goals']):
-        round_info = row['Round Number'] if 'Round Number' in row else "?"
-        update_elo(
-            row['Home Team'],
-            row['Away Team'],
-            row['Home Goals'],
-            row['Away Goals'],
-            round_info
-        )
+    if not all([home_team, away_team, home_league, away_league]):
+        messagebox.showerror("Error", "Please select both teams and their leagues.")
+        return
 
+    files = list(set([home_league, away_league] + ([europe_home] if europe_home else []) + ([europe_away] if europe_away else [])))
+    ratings = calculate_elo_from_file(files)
 
-final_elo = pd.DataFrame(sorted(elo_ratings.items(), key=lambda x: x[1], reverse=True), columns=['Team', 'Elo'])
+    home_elo = ratings[home_team] + HOME_ADVANTAGE
+    away_elo = ratings[away_team]
 
+    proba_home = expected_score(home_elo, away_elo)
+    proba_away = 1 - proba_home
 
-final_elo = final_elo.drop_duplicates(subset=['Team'], keep='last')
-
-print("\n🔝 Final Elo Ratings (League + Cup, No Duplicates):")
-print(final_elo)
-
-elo_df = pd.DataFrame(elo_history)
-elo_df.to_csv("elo_progression.csv", index=False)
-
-df['Result Label'] = df.apply(
-    lambda row: 1 if row['Home Goals'] > row['Away Goals'] else (-1 if row['Home Goals'] < row['Away Goals'] else 0),
-    axis=1)
-
-df['Home Elo'] = df['Home Team'].map(elo_ratings)
-df['Away Elo'] = df['Away Team'].map(elo_ratings)
-
-X = df[['Home Elo', 'Away Elo']]
-y = df['Result Label']
-
-
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
-
-
-model = LogisticRegression(max_iter=1000)
-model.fit(X_train, y_train)
-
-
-y_pred = model.predict(X_test)
-
-
-accuracy = accuracy_score(y_test, y_pred)
-conf_matrix = confusion_matrix(y_test, y_pred)
-class_report = classification_report(y_test, y_pred)
-
-# Print evaluation results
-print(f"\nAccuracy: {accuracy}")
-print(f"Confusion Matrix:\n{conf_matrix}")
-print(f"Classification Report:\n{class_report}")
-
-# Predict the remaining matches (if any)
-remaining_matches = df[df['Round Number'] > 29]
-remaining_matches['Home Elo'] = remaining_matches['Home Team'].map(elo_ratings)
-remaining_matches['Away Elo'] = remaining_matches['Away Team'].map(elo_ratings)
-
-X_remaining = remaining_matches[['Home Elo', 'Away Elo']]
-predictions = model.predict(X_remaining)
-
-remaining_matches['Predicted Result'] = predictions
-
-print(f"\nPredictions for Remaining Matches (Round > 29):")
-print(remaining_matches[['Home Team', 'Away Team', 'Predicted Result']])
-
-
-points = defaultdict(int)
-
-
-for _, row in df.iterrows():
-    if pd.notna(row['Home Goals']) and pd.notna(row['Away Goals']):
-        if row['Home Goals'] > row['Away Goals']:
-            points[row['Home Team']] += 3  # Home team wins
-        elif row['Home Goals'] < row['Away Goals']:
-            points[row['Away Team']] += 3  # Away team wins
-        else:
-            points[row['Home Team']] += 1  # Draw
-            points[row['Away Team']] += 1
-
-
-for _, row in remaining_matches.iterrows():
-    if row['Predicted Result'] == 1:
-        points[row['Home Team']] += 3  # Home team predicted to win
-    elif row['Predicted Result'] == -1:
-        points[row['Away Team']] += 3  # Away team predicted to win
+    if proba_home > 0.55:
+        result = f"Prediction: {home_team} will likely win."
+    elif proba_home < 0.45:
+        result = f"Prediction: {away_team} will likely win."
     else:
-        points[row['Home Team']] += 1  # Draw
-        points[row['Away Team']] += 1
+        result = "Prediction: It's likely to be a draw."
+
+    result += f"\nWin Probability: {home_team} {proba_home:.2%} | {away_team} {proba_away:.2%}"
+    messagebox.showinfo("Prediction", result)
+
+# Update teams dropdown based on selected league
+def update_teams(var, menu, league_file):
+    teams = load_league_teams(league_file.get())
+    menu['menu'].delete(0, 'end')
+    for team in teams:
+        menu['menu'].add_command(label=team, command=tk._setit(var, team))
+    var.set(teams[0])
 
 
-final_standings = pd.DataFrame(list(points.items()), columns=['Team', 'Points'])
+root = tk.Tk()
+root.title("Elo Match Predictor")
+root.geometry("600x400")
 
+league_files = ["super_league.csv", "eredivisie.csv", "la_liga.csv", "serie_a.csv", "bundesliga.csv", "epl.csv", "ligue_1.csv"]
+european_files = ["", "ucl.csv", "uel.csv", "uecl.csv"]
 
-final_standings = final_standings.merge(final_elo, on='Team')
+home_league_var = tk.StringVar(value=league_files[0])
+away_league_var = tk.StringVar(value=league_files[0])
 
+home_team_var = tk.StringVar()
+away_team_var = tk.StringVar()
+european_var_home = tk.StringVar()
+european_var_away = tk.StringVar()
 
-final_standings = final_standings.sort_values(by=['Points', 'Elo'], ascending=[False, False])
+# Home team
+ttk.Label(root, text="Home League").pack()
+home_league_menu = ttk.OptionMenu(root, home_league_var, league_files[0], *league_files, command=lambda _: update_teams(home_team_var, home_team_menu, home_league_var))
+home_league_menu.pack()
 
-print("\nFinal Standings After Predictions (Including Total Points):")
-print(final_standings)
+ttk.Label(root, text="Home Team").pack()
+home_team_menu = ttk.OptionMenu(root, home_team_var, "")
+home_team_menu.pack()
+update_teams(home_team_var, home_team_menu, home_league_var)
+
+# Away team
+ttk.Label(root, text="Away League").pack()
+away_league_menu = ttk.OptionMenu(root, away_league_var, league_files[0], *league_files, command=lambda _: update_teams(away_team_var, away_team_menu, away_league_var))
+away_league_menu.pack()
+
+ttk.Label(root, text="Away Team").pack()
+away_team_menu = ttk.OptionMenu(root, away_team_var, "")
+away_team_menu.pack()
+update_teams(away_team_var, away_team_menu, away_league_var)
+
+# European competitions (optional)
+ttk.Label(root, text="Home Team European Competition").pack()
+europe_menu_home = ttk.OptionMenu(root, european_var_home, european_files[0], *european_files)
+europe_menu_home.pack()
+
+ttk.Label(root, text="Away Team European Competition").pack()
+europe_menu_away = ttk.OptionMenu(root, european_var_away, european_files[0], *european_files)
+europe_menu_away.pack()
+
+# Predict button
+ttk.Button(root, text="Predict Match Outcome", command=predict_outcome).pack(pady=10)
+
+root.mainloop()

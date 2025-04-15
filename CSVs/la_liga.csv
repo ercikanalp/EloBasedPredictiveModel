@@ -1,42 +1,42 @@
 Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 1,1,15/08/2024 17:00,Estadio San Mamés,Athletic Club,Getafe CF,1 - 1
-2,1,15/08/2024 19:30,Estadio Benito Villamarín,Real Betis,Girona FC,1 - 1
+2,1,15/08/2024 19:30,Estadio Benito Villamarín,Real Betis,Girona,1 - 1
 8,1,16/08/2024 17:00,Estadio ABANCA Balaídos,RC Celta,Deportivo Alavés,2 - 1
 4,1,16/08/2024 19:30,Estadio Gran Canaria,UD Las Palmas,Sevilla FC,2 - 2
 9,1,17/08/2024 17:00,Estadio El Sadar,CA Osasuna,CD Leganés,1 - 1
-6,1,17/08/2024 19:30,Camp de Mestalla,Valencia CF,FC Barcelona,1 - 2
+6,1,17/08/2024 19:30,Camp de Mestalla,Valencia CF,Barcelona,1 - 2
 7,1,18/08/2024 17:00,Reale Arena,Real Sociedad,Rayo Vallecano,1 - 2
 3,1,18/08/2024 19:30,Estadi Mallorca Son Moix,RCD Mallorca,Real Madrid,1 - 1
 10,1,19/08/2024 17:00,Estadio Municipal José Zorrilla,Real Valladolid CF,RCD Espanyol de Barcelona,1 - 0
-5,1,19/08/2024 19:30,Estadio de la Cerámica,Villarreal CF,Atlético de Madrid,2 - 2
+5,1,19/08/2024 19:30,Estadio de la Cerámica,Villarreal CF,Atletico,2 - 2
 12,2,23/08/2024 17:00,Estadio ABANCA Balaídos,RC Celta,Valencia CF,3 - 1
 15,2,23/08/2024 19:30,Ramón Sánchez-Pizjuán,Sevilla FC,Villarreal CF,1 - 2
 20,2,24/08/2024 15:00,Estadio El Sadar,CA Osasuna,RCD Mallorca,1 - 0
-19,2,24/08/2024 17:00,Estadi Olímpic Lluís Companys,FC Barcelona,Athletic Club,2 - 1
+19,2,24/08/2024 17:00,Estadi Olímpic Lluís Companys,Barcelona,Athletic Club,2 - 1
 13,2,24/08/2024 19:30,Coliseum,Getafe CF,Rayo Vallecano,0 - 0
 18,2,24/08/2024 19:30,RCDE Stadium,RCD Espanyol de Barcelona,Real Sociedad,0 - 1
 14,2,25/08/2024 15:00,Estadio Santiago Bernabéu,Real Madrid,Real Valladolid CF,3 - 0
 17,2,25/08/2024 17:00,Estadio Municipal Butarque,CD Leganés,UD Las Palmas,2 - 1
 16,2,25/08/2024 17:15,Mendizorroza,Deportivo Alavés,Real Betis,0 - 0
-11,2,25/08/2024 19:30,Metropolitano Stadium,Atlético de Madrid,Girona FC,3 - 0
+11,2,25/08/2024 19:30,Metropolitano Stadium,Atletico,Girona,3 - 0
 27,3,26/08/2024 19:30,Estadio de la Cerámica,Villarreal CF,RC Celta,4 - 3
 24,3,27/08/2024 17:00,Estadi Mallorca Son Moix,RCD Mallorca,Sevilla FC,0 - 0
-26,3,27/08/2024 19:30,Estadio de Vallecas,Rayo Vallecano,FC Barcelona,1 - 2
+26,3,27/08/2024 19:30,Estadio de Vallecas,Rayo Vallecano,Barcelona,1 - 2
 21,3,28/08/2024 17:00,Estadio San Mamés,Athletic Club,Valencia CF,1 - 0
 29,3,28/08/2024 17:00,Estadio Municipal José Zorrilla,Real Valladolid CF,CD Leganés,0 - 0
 28,3,28/08/2024 19:30,Reale Arena,Real Sociedad,Deportivo Alavés,1 - 2
-30,3,28/08/2024 19:30,Metropolitano Stadium,Atlético de Madrid,RCD Espanyol de Barcelona,0 - 0
-23,3,29/08/2024 17:00,Estadio Municipal de Montilivi,Girona FC,CA Osasuna,4 - 0
+30,3,28/08/2024 19:30,Metropolitano Stadium,Atletico,RCD Espanyol de Barcelona,0 - 0
+23,3,29/08/2024 17:00,Estadio Municipal de Montilivi,Girona,CA Osasuna,4 - 0
 25,3,29/08/2024 19:30,Estadio Gran Canaria,UD Las Palmas,Real Madrid,1 - 1
 22,3,18/09/2024 17:00,Estadio Benito Villamarín,Real Betis,Getafe CF,2 - 1
-32,4,31/08/2024 15:00,Estadi Olímpic Lluís Companys,FC Barcelona,Real Valladolid CF,7 - 0
-31,4,31/08/2024 17:00,Estadio San Mamés,Athletic Club,Atlético de Madrid,0 - 1
+32,4,31/08/2024 15:00,Estadi Olímpic Lluís Companys,Barcelona,Real Valladolid CF,7 - 0
+31,4,31/08/2024 17:00,Estadio San Mamés,Athletic Club,Atletico,0 - 1
 37,4,31/08/2024 17:15,RCDE Stadium,RCD Espanyol de Barcelona,Rayo Vallecano,2 - 1
 34,4,31/08/2024 19:30,Camp de Mestalla,Valencia CF,Villarreal CF,1 - 1
 36,4,31/08/2024 19:30,Estadio Municipal Butarque,CD Leganés,RCD Mallorca,0 - 1
 35,4,01/09/2024 15:00,Mendizorroza,Deportivo Alavés,UD Las Palmas,2 - 0
 39,4,01/09/2024 15:00,Estadio El Sadar,CA Osasuna,RC Celta,3 - 2
-40,4,01/09/2024 17:00,Ramón Sánchez-Pizjuán,Sevilla FC,Girona FC,0 - 2
+40,4,01/09/2024 17:00,Ramón Sánchez-Pizjuán,Sevilla FC,Girona,0 - 2
 33,4,01/09/2024 17:15,Coliseum,Getafe CF,Real Sociedad,0 - 0
 38,4,01/09/2024 19:30,Estadio Santiago Bernabéu,Real Madrid,Real Betis,2 - 0
 42,5,13/09/2024 19:00,Estadio Benito Villamarín,Real Betis,CD Leganés,2 - 0
@@ -45,39 +45,39 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 47,5,14/09/2024 16:30,Ramón Sánchez-Pizjuán,Sevilla FC,Getafe CF,1 - 0
 49,5,14/09/2024 19:00,Reale Arena,Real Sociedad,Real Madrid,0 - 2
 43,5,15/09/2024 12:00,Estadio ABANCA Balaídos,RC Celta,Real Valladolid CF,3 - 1
-46,5,15/09/2024 14:15,Estadio Municipal de Montilivi,Girona FC,FC Barcelona,1 - 4
+46,5,15/09/2024 14:15,Estadio Municipal de Montilivi,Girona,Barcelona,1 - 4
 45,5,15/09/2024 16:30,Estadio Gran Canaria,UD Las Palmas,Athletic Club,2 - 3
-41,5,15/09/2024 19:00,Metropolitano Stadium,Atlético de Madrid,Valencia CF,3 - 0
+41,5,15/09/2024 19:00,Metropolitano Stadium,Atletico,Valencia CF,3 - 0
 48,5,16/09/2024 19:00,Estadio de Vallecas,Rayo Vallecano,CA Osasuna,3 - 1
 54,6,20/09/2024 19:00,Mendizorroza,Deportivo Alavés,Sevilla FC,2 - 1
 58,6,21/09/2024 12:00,Estadio Municipal José Zorrilla,Real Valladolid CF,Real Sociedad,0 - 0
 59,6,21/09/2024 14:15,Estadio El Sadar,CA Osasuna,UD Las Palmas,2 - 1
-57,6,21/09/2024 16:30,Camp de Mestalla,Valencia CF,Girona FC,2 - 0
+57,6,21/09/2024 16:30,Camp de Mestalla,Valencia CF,Girona,2 - 0
 60,6,21/09/2024 19:00,Estadio Santiago Bernabéu,Real Madrid,RCD Espanyol de Barcelona,4 - 1
 53,6,22/09/2024 12:00,Coliseum,Getafe CF,CD Leganés,1 - 1
 51,6,22/09/2024 14:15,Estadio San Mamés,Athletic Club,RC Celta,3 - 1
-56,6,22/09/2024 16:30,Estadio de la Cerámica,Villarreal CF,FC Barcelona,1 - 5
-55,6,22/09/2024 19:00,Estadio de Vallecas,Rayo Vallecano,Atlético de Madrid,1 - 1
+56,6,22/09/2024 16:30,Estadio de la Cerámica,Villarreal CF,Barcelona,1 - 5
+55,6,22/09/2024 19:00,Estadio de Vallecas,Rayo Vallecano,Atletico,1 - 1
 52,6,23/09/2024 19:00,Estadio Benito Villamarín,Real Betis,RCD Mallorca,1 - 2
 63,7,17/09/2024 17:00,Estadi Mallorca Son Moix,RCD Mallorca,Real Sociedad,1 - 0
 66,7,19/09/2024 17:00,Estadio Municipal Butarque,CD Leganés,Athletic Club,0 - 2
 64,7,24/09/2024 17:00,Ramón Sánchez-Pizjuán,Sevilla FC,Real Valladolid CF,2 - 1
 69,7,24/09/2024 17:00,Camp de Mestalla,Valencia CF,CA Osasuna,0 - 0
 70,7,24/09/2024 19:00,Estadio Santiago Bernabéu,Real Madrid,Deportivo Alavés,3 - 2
-62,7,25/09/2024 17:00,Estadio Municipal de Montilivi,Girona FC,Rayo Vallecano,0 - 0
-61,7,25/09/2024 19:00,Estadi Olímpic Lluís Companys,FC Barcelona,Getafe CF,1 - 0
+62,7,25/09/2024 17:00,Estadio Municipal de Montilivi,Girona,Rayo Vallecano,0 - 0
+61,7,25/09/2024 19:00,Estadi Olímpic Lluís Companys,Barcelona,Getafe CF,1 - 0
 65,7,26/09/2024 17:00,RCDE Stadium,RCD Espanyol de Barcelona,Villarreal CF,1 - 2
 68,7,26/09/2024 17:00,Estadio Gran Canaria,UD Las Palmas,Real Betis,1 - 1
-67,7,26/09/2024 19:00,Estadio ABANCA Balaídos,RC Celta,Atlético de Madrid,0 - 1
+67,7,26/09/2024 19:00,Estadio ABANCA Balaídos,RC Celta,Atletico,0 - 1
 76,8,27/09/2024 19:00,Estadio Municipal José Zorrilla,Real Valladolid CF,RCD Mallorca,1 - 2
 78,8,28/09/2024 12:00,Coliseum,Getafe CF,Deportivo Alavés,2 - 0
 79,8,28/09/2024 14:15,Estadio de Vallecas,Rayo Vallecano,CD Leganés,1 - 1
 74,8,28/09/2024 16:30,Reale Arena,Real Sociedad,Valencia CF,3 - 0
-75,8,28/09/2024 19:00,Estadio El Sadar,CA Osasuna,FC Barcelona,4 - 2
-73,8,29/09/2024 12:00,Estadio ABANCA Balaídos,RC Celta,Girona FC,1 - 1
+75,8,28/09/2024 19:00,Estadio El Sadar,CA Osasuna,Barcelona,4 - 2
+73,8,29/09/2024 12:00,Estadio ABANCA Balaídos,RC Celta,Girona,1 - 1
 71,8,29/09/2024 14:15,Estadio San Mamés,Athletic Club,Sevilla FC,1 - 1
 80,8,29/09/2024 16:30,Estadio Benito Villamarín,Real Betis,RCD Espanyol de Barcelona,1 - 0
-72,8,29/09/2024 19:00,Metropolitano Stadium,Atlético de Madrid,Real Madrid,1 - 1
+72,8,29/09/2024 19:00,Metropolitano Stadium,Atletico,Real Madrid,1 - 1
 77,8,30/09/2024 19:00,Estadio de la Cerámica,Villarreal CF,UD Las Palmas,3 - 1
 84,9,04/10/2024 19:00,Estadio Municipal Butarque,CD Leganés,Valencia CF,0 - 0
 85,9,05/10/2024 12:00,RCDE Stadium,RCD Espanyol de Barcelona,RCD Mallorca,2 - 1
@@ -85,35 +85,35 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 89,9,05/10/2024 16:30,Estadio Gran Canaria,UD Las Palmas,RC Celta,0 - 1
 90,9,05/10/2024 16:30,Estadio Municipal José Zorrilla,Real Valladolid CF,Rayo Vallecano,1 - 2
 82,9,05/10/2024 19:00,Estadio Santiago Bernabéu,Real Madrid,Villarreal CF,2 - 0
-86,9,06/10/2024 12:00,Estadio Municipal de Montilivi,Girona FC,Athletic Club,2 - 1
-83,9,06/10/2024 14:15,Mendizorroza,Deportivo Alavés,FC Barcelona,0 - 3
+86,9,06/10/2024 12:00,Estadio Municipal de Montilivi,Girona,Athletic Club,2 - 1
+83,9,06/10/2024 14:15,Mendizorroza,Deportivo Alavés,Barcelona,0 - 3
 88,9,06/10/2024 16:30,Ramón Sánchez-Pizjuán,Sevilla FC,Real Betis,1 - 0
-87,9,06/10/2024 19:00,Reale Arena,Real Sociedad,Atlético de Madrid,1 - 1
+87,9,06/10/2024 19:00,Reale Arena,Real Sociedad,Atletico,1 - 1
 96,10,18/10/2024 19:00,Mendizorroza,Deportivo Alavés,Real Valladolid CF,2 - 3
 100,10,19/10/2024 12:00,Estadio San Mamés,Athletic Club,RCD Espanyol de Barcelona,4 - 1
 97,10,19/10/2024 14:15,Estadio El Sadar,CA Osasuna,Real Betis,1 - 2
-94,10,19/10/2024 16:30,Estadio Municipal de Montilivi,Girona FC,Real Sociedad,0 - 1
+94,10,19/10/2024 16:30,Estadio Municipal de Montilivi,Girona,Real Sociedad,0 - 1
 93,10,19/10/2024 19:00,Estadio ABANCA Balaídos,RC Celta,Real Madrid,1 - 2
 95,10,20/10/2024 12:00,Estadi Mallorca Son Moix,RCD Mallorca,Rayo Vallecano,1 - 0
-91,10,20/10/2024 14:15,Metropolitano Stadium,Atlético de Madrid,CD Leganés,3 - 1
+91,10,20/10/2024 14:15,Metropolitano Stadium,Atletico,CD Leganés,3 - 1
 98,10,20/10/2024 16:30,Estadio de la Cerámica,Villarreal CF,Getafe CF,1 - 1
-92,10,20/10/2024 19:00,Estadi Olímpic Lluís Companys,FC Barcelona,Sevilla FC,5 - 1
+92,10,20/10/2024 19:00,Estadi Olímpic Lluís Companys,Barcelona,Sevilla FC,5 - 1
 99,10,21/10/2024 19:00,Camp de Mestalla,Valencia CF,UD Las Palmas,2 - 3
 102,11,25/10/2024 19:00,RCDE Stadium,RCD Espanyol de Barcelona,Sevilla FC,0 - 2
 109,11,26/10/2024 12:00,Estadio Municipal José Zorrilla,Real Valladolid CF,Villarreal CF,1 - 2
 110,11,26/10/2024 14:15,Estadio de Vallecas,Rayo Vallecano,Deportivo Alavés,1 - 0
-107,11,26/10/2024 16:30,Estadio Gran Canaria,UD Las Palmas,Girona FC,1 - 0
-105,11,26/10/2024 19:00,Estadio Santiago Bernabéu,Real Madrid,FC Barcelona,0 - 4
+107,11,26/10/2024 16:30,Estadio Gran Canaria,UD Las Palmas,Girona,1 - 0
+105,11,26/10/2024 19:00,Estadio Santiago Bernabéu,Real Madrid,Barcelona,0 - 4
 106,11,27/10/2024 13:00,Estadio Municipal Butarque,CD Leganés,RC Celta,3 - 0
 101,11,27/10/2024 15:15,Coliseum,Getafe CF,Valencia CF,1 - 1
-104,11,27/10/2024 17:30,Estadio Benito Villamarín,Real Betis,Atlético de Madrid,1 - 0
+104,11,27/10/2024 17:30,Estadio Benito Villamarín,Real Betis,Atletico,1 - 0
 108,11,27/10/2024 20:00,Reale Arena,Real Sociedad,CA Osasuna,0 - 2
 103,11,28/10/2024 20:00,Estadi Mallorca Son Moix,RCD Mallorca,Athletic Club,0 - 0
 116,12,01/11/2024 20:00,Mendizorroza,Deportivo Alavés,RCD Mallorca,1 - 0
 115,12,02/11/2024 13:00,Estadio El Sadar,CA Osasuna,Real Valladolid CF,1 - 0
-114,12,02/11/2024 15:15,Estadio Municipal de Montilivi,Girona FC,CD Leganés,4 - 3
-112,12,03/11/2024 13:00,Metropolitano Stadium,Atlético de Madrid,UD Las Palmas,2 - 0
-120,12,03/11/2024 15:15,Estadi Olímpic Lluís Companys,FC Barcelona,RCD Espanyol de Barcelona,3 - 1
+114,12,02/11/2024 15:15,Estadio Municipal de Montilivi,Girona,CD Leganés,4 - 3
+112,12,03/11/2024 13:00,Metropolitano Stadium,Atletico,UD Las Palmas,2 - 0
+120,12,03/11/2024 15:15,Estadi Olímpic Lluís Companys,Barcelona,RCD Espanyol de Barcelona,3 - 1
 119,12,03/11/2024 17:30,Ramón Sánchez-Pizjuán,Sevilla FC,Real Sociedad,0 - 2
 111,12,03/11/2024 20:00,Estadio San Mamés,Athletic Club,Real Betis,1 - 1
 113,12,04/11/2024 20:00,Estadio ABANCA Balaídos,RC Celta,Getafe CF,1 - 0
@@ -124,76 +124,76 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 130,13,09/11/2024 15:15,Estadio de la Cerámica,Villarreal CF,Deportivo Alavés,3 - 0
 123,13,09/11/2024 20:00,Estadio Municipal Butarque,CD Leganés,Sevilla FC,1 - 0
 121,13,10/11/2024 13:00,Estadio Benito Villamarín,Real Betis,RC Celta,2 - 2
-126,13,10/11/2024 15:15,Estadi Mallorca Son Moix,RCD Mallorca,Atlético de Madrid,0 - 1
-122,13,10/11/2024 17:30,Coliseum,Getafe CF,Girona FC,0 - 1
+126,13,10/11/2024 15:15,Estadi Mallorca Son Moix,RCD Mallorca,Atletico,0 - 1
+122,13,10/11/2024 17:30,Coliseum,Getafe CF,Girona,0 - 1
 125,13,10/11/2024 17:30,Estadio Municipal José Zorrilla,Real Valladolid CF,Athletic Club,1 - 1
-127,13,10/11/2024 20:00,Reale Arena,Real Sociedad,FC Barcelona,1 - 0
+127,13,10/11/2024 20:00,Reale Arena,Real Sociedad,Barcelona,1 - 0
 124,13,18/12/2024 20:30,RCDE Stadium,RCD Espanyol de Barcelona,Valencia CF,1 - 1
 132,14,22/11/2024 20:00,Coliseum,Getafe CF,Real Valladolid CF,2 - 0
 137,14,23/11/2024 13:00,Camp de Mestalla,Valencia CF,Real Betis,4 - 2
-139,14,23/11/2024 15:15,Metropolitano Stadium,Atlético de Madrid,Deportivo Alavés,2 - 1
+139,14,23/11/2024 15:15,Metropolitano Stadium,Atletico,Deportivo Alavés,2 - 1
 134,14,23/11/2024 17:30,Estadio Gran Canaria,UD Las Palmas,RCD Mallorca,2 - 3
-140,14,23/11/2024 17:30,Estadio Municipal de Montilivi,Girona FC,RCD Espanyol de Barcelona,4 - 1
-136,14,23/11/2024 20:00,Estadio ABANCA Balaídos,RC Celta,FC Barcelona,2 - 2
+140,14,23/11/2024 17:30,Estadio Municipal de Montilivi,Girona,RCD Espanyol de Barcelona,4 - 1
+136,14,23/11/2024 20:00,Estadio ABANCA Balaídos,RC Celta,Barcelona,2 - 2
 133,14,24/11/2024 13:00,Estadio El Sadar,CA Osasuna,Villarreal CF,2 - 2
 138,14,24/11/2024 15:15,Ramón Sánchez-Pizjuán,Sevilla FC,Rayo Vallecano,1 - 0
 135,14,24/11/2024 17:30,Estadio Municipal Butarque,CD Leganés,Real Madrid,0 - 3
 131,14,24/11/2024 20:00,Estadio San Mamés,Athletic Club,Real Sociedad,1 - 0
 142,15,29/11/2024 20:00,Estadi Mallorca Son Moix,RCD Mallorca,Valencia CF,2 - 1
-141,15,30/11/2024 13:00,Estadi Olímpic Lluís Companys,FC Barcelona,UD Las Palmas,1 - 2
+141,15,30/11/2024 13:00,Estadi Olímpic Lluís Companys,Barcelona,UD Las Palmas,1 - 2
 143,15,30/11/2024 15:15,Mendizorroza,Deportivo Alavés,CD Leganés,1 - 1
 144,15,30/11/2024 17:30,RCDE Stadium,RCD Espanyol de Barcelona,RC Celta,3 - 1
-146,15,30/11/2024 20:00,Estadio Municipal José Zorrilla,Real Valladolid CF,Atlético de Madrid,0 - 5
-149,15,01/12/2024 13:00,Estadio de la Cerámica,Villarreal CF,Girona FC,2 - 2
+146,15,30/11/2024 20:00,Estadio Municipal José Zorrilla,Real Valladolid CF,Atletico,0 - 5
+149,15,01/12/2024 13:00,Estadio de la Cerámica,Villarreal CF,Girona,2 - 2
 148,15,01/12/2024 15:15,Estadio Santiago Bernabéu,Real Madrid,Getafe CF,2 - 0
 145,15,01/12/2024 17:30,Estadio de Vallecas,Rayo Vallecano,Athletic Club,1 - 2
 147,15,01/12/2024 20:00,Reale Arena,Real Sociedad,Real Betis,2 - 0
 150,15,02/12/2024 20:00,Ramón Sánchez-Pizjuán,Sevilla FC,CA Osasuna,1 - 1
 153,16,06/12/2024 20:00,Estadio ABANCA Balaídos,RC Celta,RCD Mallorca,2 - 0
 155,16,07/12/2024 13:00,Estadio Gran Canaria,UD Las Palmas,Real Valladolid CF,2 - 1
-157,16,07/12/2024 15:15,Estadio Benito Villamarín,Real Betis,FC Barcelona,2 - 2
+157,16,07/12/2024 15:15,Estadio Benito Villamarín,Real Betis,Barcelona,2 - 2
 158,16,07/12/2024 17:30,Camp de Mestalla,Valencia CF,Rayo Vallecano,0 - 1
-154,16,07/12/2024 20:00,Estadio Municipal de Montilivi,Girona FC,Real Madrid,0 - 3
+154,16,07/12/2024 20:00,Estadio Municipal de Montilivi,Girona,Real Madrid,0 - 3
 156,16,08/12/2024 13:00,Estadio Municipal Butarque,CD Leganés,Real Sociedad,0 - 3
 151,16,08/12/2024 15:15,Estadio San Mamés,Athletic Club,Villarreal CF,2 - 0
 159,16,08/12/2024 17:30,Estadio El Sadar,CA Osasuna,Deportivo Alavés,2 - 2
-152,16,08/12/2024 20:00,Metropolitano Stadium,Atlético de Madrid,Sevilla FC,4 - 3
+152,16,08/12/2024 20:00,Metropolitano Stadium,Atletico,Sevilla FC,4 - 3
 160,16,09/12/2024 20:00,Coliseum,Getafe CF,RCD Espanyol de Barcelona,1 - 0
 169,17,13/12/2024 20:00,Estadio Municipal José Zorrilla,Real Valladolid CF,Valencia CF,1 - 0
 165,17,14/12/2024 13:00,RCDE Stadium,RCD Espanyol de Barcelona,CA Osasuna,0 - 0
-168,17,14/12/2024 15:15,Estadi Mallorca Son Moix,RCD Mallorca,Girona FC,2 - 1
+168,17,14/12/2024 15:15,Estadi Mallorca Son Moix,RCD Mallorca,Girona,2 - 1
 167,17,14/12/2024 17:30,Ramón Sánchez-Pizjuán,Sevilla FC,RC Celta,1 - 0
 163,17,14/12/2024 20:00,Estadio de Vallecas,Rayo Vallecano,Real Madrid,3 - 3
-161,17,15/12/2024 13:00,Metropolitano Stadium,Atlético de Madrid,Getafe CF,1 - 0
+161,17,15/12/2024 13:00,Metropolitano Stadium,Atletico,Getafe CF,1 - 0
 164,17,15/12/2024 15:15,Mendizorroza,Deportivo Alavés,Athletic Club,1 - 1
 166,17,15/12/2024 17:30,Estadio de la Cerámica,Villarreal CF,Real Betis,1 - 2
 170,17,15/12/2024 17:30,Reale Arena,Real Sociedad,UD Las Palmas,0 - 0
-162,17,15/12/2024 20:00,Estadi Olímpic Lluís Companys,FC Barcelona,CD Leganés,0 - 1
-174,18,20/12/2024 20:00,Estadio Municipal de Montilivi,Girona FC,Real Valladolid CF,3 - 0
+162,17,15/12/2024 20:00,Estadi Olímpic Lluís Companys,Barcelona,CD Leganés,0 - 1
+174,18,20/12/2024 20:00,Estadio Municipal de Montilivi,Girona,Real Valladolid CF,3 - 0
 173,18,21/12/2024 13:00,Coliseum,Getafe CF,RCD Mallorca,0 - 1
 172,18,21/12/2024 15:15,Estadio ABANCA Balaídos,RC Celta,Real Sociedad,2 - 0
 177,18,21/12/2024 17:30,Estadio El Sadar,CA Osasuna,Athletic Club,1 - 2
-178,18,21/12/2024 20:00,Estadi Olímpic Lluís Companys,FC Barcelona,Atlético de Madrid,1 - 2
+178,18,21/12/2024 20:00,Estadi Olímpic Lluís Companys,Barcelona,Atletico,1 - 2
 179,18,22/12/2024 13:00,Camp de Mestalla,Valencia CF,Deportivo Alavés,2 - 2
 175,18,22/12/2024 15:15,Estadio Santiago Bernabéu,Real Madrid,Sevilla FC,4 - 2
 176,18,22/12/2024 17:30,Estadio Municipal Butarque,CD Leganés,Villarreal CF,2 - 5
 180,18,22/12/2024 17:30,Estadio Gran Canaria,UD Las Palmas,RCD Espanyol de Barcelona,1 - 0
 171,18,22/12/2024 20:00,Estadio Benito Villamarín,Real Betis,Rayo Vallecano,1 - 1
-187,19,03/12/2024 18:00,Estadi Mallorca Son Moix,RCD Mallorca,FC Barcelona,1 - 5
+187,19,03/12/2024 18:00,Estadi Mallorca Son Moix,RCD Mallorca,Barcelona,1 - 5
 181,19,04/12/2024 20:00,Estadio San Mamés,Athletic Club,Real Madrid,2 - 1
 189,19,10/01/2025 20:00,Estadio de Vallecas,Rayo Vallecano,RC Celta,2 - 1
-185,19,11/01/2025 13:00,Mendizorroza,Deportivo Alavés,Girona FC,0 - 1
+185,19,11/01/2025 13:00,Mendizorroza,Deportivo Alavés,Girona,0 - 1
 188,19,11/01/2025 15:15,Estadio Municipal José Zorrilla,Real Valladolid CF,Real Betis,1 - 0
 186,19,11/01/2025 17:30,RCDE Stadium,RCD Espanyol de Barcelona,CD Leganés,1 - 1
 184,19,11/01/2025 20:00,Ramón Sánchez-Pizjuán,Sevilla FC,Valencia CF,1 - 1
 190,19,12/01/2025 13:00,Estadio Gran Canaria,UD Las Palmas,Getafe CF,1 - 2
-182,19,12/01/2025 15:15,Metropolitano Stadium,Atlético de Madrid,CA Osasuna,1 - 0
+182,19,12/01/2025 15:15,Metropolitano Stadium,Atletico,CA Osasuna,1 - 0
 183,19,13/01/2025 20:00,Reale Arena,Real Sociedad,Villarreal CF,1 - 0
 193,20,17/01/2025 20:00,RCDE Stadium,RCD Espanyol de Barcelona,Real Valladolid CF,2 - 1
-191,20,18/01/2025 13:00,Estadio Municipal de Montilivi,Girona FC,Sevilla FC,1 - 2
-195,20,18/01/2025 15:15,Estadio Municipal Butarque,CD Leganés,Atlético de Madrid,1 - 0
+191,20,18/01/2025 13:00,Estadio Municipal de Montilivi,Girona,Sevilla FC,1 - 2
+195,20,18/01/2025 15:15,Estadio Municipal Butarque,CD Leganés,Atletico,1 - 0
 200,20,18/01/2025 17:30,Estadio Benito Villamarín,Real Betis,Deportivo Alavés,1 - 3
-196,20,18/01/2025 20:00,Coliseum,Getafe CF,FC Barcelona,1 - 1
+196,20,18/01/2025 20:00,Coliseum,Getafe CF,Barcelona,1 - 1
 194,20,19/01/2025 13:00,Estadio ABANCA Balaídos,RC Celta,Athletic Club,1 - 2
 199,20,19/01/2025 15:15,Estadio Santiago Bernabéu,Real Madrid,UD Las Palmas,4 - 1
 192,20,19/01/2025 17:30,Estadio El Sadar,CA Osasuna,Rayo Vallecano,1 - 1
@@ -201,181 +201,181 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 197,20,20/01/2025 20:00,Estadio de la Cerámica,Villarreal CF,RCD Mallorca,4 - 0
 204,21,24/01/2025 20:00,Estadio Gran Canaria,UD Las Palmas,CA Osasuna,1 - 1
 206,21,25/01/2025 13:00,Estadi Mallorca Son Moix,RCD Mallorca,Real Betis,0 - 1
-202,21,25/01/2025 15:15,Metropolitano Stadium,Atlético de Madrid,Villarreal CF,1 - 1
+202,21,25/01/2025 15:15,Metropolitano Stadium,Atletico,Villarreal CF,1 - 1
 210,21,25/01/2025 17:30,Ramón Sánchez-Pizjuán,Sevilla FC,RCD Espanyol de Barcelona,1 - 1
 209,21,25/01/2025 20:00,Estadio Municipal José Zorrilla,Real Valladolid CF,Real Madrid,0 - 3
-208,21,26/01/2025 13:00,Estadio de Vallecas,Rayo Vallecano,Girona FC,2 - 1
+208,21,26/01/2025 13:00,Estadio de Vallecas,Rayo Vallecano,Girona,2 - 1
 207,21,26/01/2025 15:15,Reale Arena,Real Sociedad,Getafe CF,0 - 3
 201,21,26/01/2025 17:30,Estadio San Mamés,Athletic Club,CD Leganés,0 - 0
-203,21,26/01/2025 20:00,Estadi Olímpic Lluís Companys,FC Barcelona,Valencia CF,7 - 1
+203,21,26/01/2025 20:00,Estadi Olímpic Lluís Companys,Barcelona,Valencia CF,7 - 1
 205,21,27/01/2025 20:00,Mendizorroza,Deportivo Alavés,RC Celta,1 - 1
 216,22,31/01/2025 20:00,Estadio Municipal Butarque,CD Leganés,Rayo Vallecano,0 - 1
 212,22,01/02/2025 13:00,Coliseum,Getafe CF,Sevilla FC,0 - 0
 215,22,01/02/2025 15:15,Estadio de la Cerámica,Villarreal CF,Real Valladolid CF,5 - 1
-211,22,01/02/2025 17:30,Metropolitano Stadium,Atlético de Madrid,RCD Mallorca,2 - 0
+211,22,01/02/2025 17:30,Metropolitano Stadium,Atletico,RCD Mallorca,2 - 0
 217,22,01/02/2025 20:00,RCDE Stadium,RCD Espanyol de Barcelona,Real Madrid,1 - 0
-220,22,02/02/2025 13:00,Estadi Olímpic Lluís Companys,FC Barcelona,Deportivo Alavés,1 - 0
+220,22,02/02/2025 13:00,Estadi Olímpic Lluís Companys,Barcelona,Deportivo Alavés,1 - 0
 219,22,02/02/2025 15:15,Camp de Mestalla,Valencia CF,RC Celta,2 - 1
 214,22,02/02/2025 17:30,Estadio El Sadar,CA Osasuna,Real Sociedad,2 - 1
 218,22,02/02/2025 20:00,Estadio Benito Villamarín,Real Betis,Athletic Club,2 - 2
-213,22,03/02/2025 20:00,Estadio Municipal de Montilivi,Girona FC,UD Las Palmas,2 - 1
+213,22,03/02/2025 20:00,Estadio Municipal de Montilivi,Girona,UD Las Palmas,2 - 1
 223,23,07/02/2025 20:00,Estadio de Vallecas,Rayo Vallecano,Real Valladolid CF,1 - 0
 228,23,08/02/2025 13:00,Estadio ABANCA Balaídos,RC Celta,Real Betis,3 - 2
-221,23,08/02/2025 15:15,Estadio San Mamés,Athletic Club,Girona FC,3 - 0
+221,23,08/02/2025 15:15,Estadio San Mamés,Athletic Club,Girona,3 - 0
 224,23,08/02/2025 17:30,Estadio Gran Canaria,UD Las Palmas,Villarreal CF,1 - 2
-226,23,08/02/2025 20:00,Estadio Santiago Bernabéu,Real Madrid,Atlético de Madrid,1 - 1
+226,23,08/02/2025 20:00,Estadio Santiago Bernabéu,Real Madrid,Atletico,1 - 1
 225,23,09/02/2025 13:00,Mendizorroza,Deportivo Alavés,Getafe CF,0 - 1
 229,23,09/02/2025 15:15,Camp de Mestalla,Valencia CF,CD Leganés,2 - 0
 230,23,09/02/2025 17:30,Reale Arena,Real Sociedad,RCD Espanyol de Barcelona,2 - 1
-227,23,09/02/2025 20:00,Ramón Sánchez-Pizjuán,Sevilla FC,FC Barcelona,1 - 4
+227,23,09/02/2025 20:00,Ramón Sánchez-Pizjuán,Sevilla FC,Barcelona,1 - 4
 222,23,10/02/2025 20:00,Estadi Mallorca Son Moix,RCD Mallorca,CA Osasuna,1 - 1
-236,24,14/02/2025 20:00,Estadio Municipal de Montilivi,Girona FC,Getafe CF,1 - 2
+236,24,14/02/2025 20:00,Estadio Municipal de Montilivi,Girona,Getafe CF,1 - 2
 240,24,15/02/2025 13:00,Estadio Municipal Butarque,CD Leganés,Deportivo Alavés,3 - 3
 234,24,15/02/2025 15:15,Estadio El Sadar,CA Osasuna,Real Madrid,1 - 1
-231,24,15/02/2025 17:30,Metropolitano Stadium,Atlético de Madrid,RC Celta,1 - 1
+231,24,15/02/2025 17:30,Metropolitano Stadium,Atletico,RC Celta,1 - 1
 238,24,15/02/2025 20:00,Estadio de la Cerámica,Villarreal CF,Valencia CF,1 - 1
 235,24,16/02/2025 13:00,RCDE Stadium,RCD Espanyol de Barcelona,Athletic Club,1 - 1
 237,24,16/02/2025 15:15,Estadio Municipal José Zorrilla,Real Valladolid CF,Sevilla FC,0 - 4
 239,24,16/02/2025 17:30,Estadi Mallorca Son Moix,RCD Mallorca,UD Las Palmas,3 - 1
 233,24,16/02/2025 20:00,Estadio Benito Villamarín,Real Betis,Real Sociedad,3 - 0
-232,24,17/02/2025 20:00,Estadi Olímpic Lluís Companys,FC Barcelona,Rayo Vallecano,1 - 0
+232,24,17/02/2025 20:00,Estadi Olímpic Lluís Companys,Barcelona,Rayo Vallecano,1 - 0
 242,25,21/02/2025 20:00,Estadio ABANCA Balaídos,RC Celta,CA Osasuna,1 - 0
 244,25,22/02/2025 13:00,Mendizorroza,Deportivo Alavés,RCD Espanyol de Barcelona,0 - 1
 243,25,22/02/2025 15:15,Estadio de Vallecas,Rayo Vallecano,Villarreal CF,0 - 1
-245,25,22/02/2025 17:30,Camp de Mestalla,Valencia CF,Atlético de Madrid,0 - 3
-246,25,22/02/2025 20:00,Estadio Gran Canaria,UD Las Palmas,FC Barcelona,0 - 2
+245,25,22/02/2025 17:30,Camp de Mestalla,Valencia CF,Atletico,0 - 3
+246,25,22/02/2025 20:00,Estadio Gran Canaria,UD Las Palmas,Barcelona,0 - 2
 241,25,23/02/2025 13:00,Estadio San Mamés,Athletic Club,Real Valladolid CF,7 - 1
-248,25,23/02/2025 15:15,Estadio Santiago Bernabéu,Real Madrid,Girona FC,2 - 0
+248,25,23/02/2025 15:15,Estadio Santiago Bernabéu,Real Madrid,Girona,2 - 0
 247,25,23/02/2025 17:30,Coliseum,Getafe CF,Real Betis,1 - 2
 250,25,23/02/2025 20:00,Reale Arena,Real Sociedad,CD Leganés,3 - 0
 249,25,24/02/2025 20:00,Ramón Sánchez-Pizjuán,Sevilla FC,RCD Mallorca,1 - 1
 258,26,28/02/2025 20:00,Estadio Municipal José Zorrilla,Real Valladolid CF,UD Las Palmas,1 - 1
-256,26,01/03/2025 13:00,Estadio Municipal de Montilivi,Girona FC,RC Celta,2 - 2
+256,26,01/03/2025 13:00,Estadio Municipal de Montilivi,Girona,RC Celta,2 - 2
 254,26,01/03/2025 15:15,Estadio de Vallecas,Rayo Vallecano,Sevilla FC,1 - 1
 252,26,01/03/2025 17:30,Estadio Benito Villamarín,Real Betis,Real Madrid,2 - 1
-255,26,01/03/2025 20:00,Metropolitano Stadium,Atlético de Madrid,Athletic Club,1 - 0
+255,26,01/03/2025 20:00,Metropolitano Stadium,Atletico,Athletic Club,1 - 0
 257,26,02/03/2025 13:00,Estadio Municipal Butarque,CD Leganés,Getafe CF,1 - 0
-251,26,02/03/2025 15:15,Estadi Olímpic Lluís Companys,FC Barcelona,Real Sociedad,4 - 0
+251,26,02/03/2025 15:15,Estadi Olímpic Lluís Companys,Barcelona,Real Sociedad,4 - 0
 259,26,02/03/2025 17:30,Estadi Mallorca Son Moix,RCD Mallorca,Deportivo Alavés,1 - 1
 253,26,02/03/2025 20:00,Estadio El Sadar,CA Osasuna,Valencia CF,3 - 3
 260,26,27/04/2025 14:15,Estadio de la Cerámica,Villarreal CF,RCD Espanyol de Barcelona,
 264,27,08/03/2025 13:00,Estadio ABANCA Balaídos,RC Celta,CD Leganés,2 - 1
 267,27,08/03/2025 15:15,Mendizorroza,Deportivo Alavés,Villarreal CF,1 - 0
 266,27,08/03/2025 17:30,Camp de Mestalla,Valencia CF,Real Valladolid CF,2 - 1
-269,27,09/03/2025 13:00,Coliseum,Getafe CF,Atlético de Madrid,2 - 1
+269,27,09/03/2025 13:00,Coliseum,Getafe CF,Atletico,2 - 1
 270,27,09/03/2025 15:15,Estadio Santiago Bernabéu,Real Madrid,Rayo Vallecano,2 - 1
 261,27,09/03/2025 17:30,Estadio San Mamés,Athletic Club,RCD Mallorca,1 - 1
 263,27,09/03/2025 17:30,Estadio Benito Villamarín,Real Betis,UD Las Palmas,1 - 0
 265,27,09/03/2025 20:00,Reale Arena,Real Sociedad,Sevilla FC,0 - 1
-268,27,10/03/2025 20:00,RCDE Stadium,RCD Espanyol de Barcelona,Girona FC,1 - 1
-262,27,27/03/2025 20:00,Estadi Olímpic Lluís Companys,FC Barcelona,CA Osasuna,3 - 0
+268,27,10/03/2025 20:00,RCDE Stadium,RCD Espanyol de Barcelona,Girona,1 - 1
+262,27,27/03/2025 20:00,Estadi Olímpic Lluís Companys,Barcelona,CA Osasuna,3 - 0
 279,28,14/03/2025 20:00,Estadio Gran Canaria,UD Las Palmas,Deportivo Alavés,2 - 2
 276,28,15/03/2025 13:00,Estadio Municipal José Zorrilla,Real Valladolid CF,RC Celta,0 - 1
 280,28,15/03/2025 15:15,Estadi Mallorca Son Moix,RCD Mallorca,RCD Espanyol de Barcelona,2 - 1
 278,28,15/03/2025 17:30,Estadio de la Cerámica,Villarreal CF,Real Madrid,1 - 2
-272,28,15/03/2025 20:00,Estadio Municipal de Montilivi,Girona FC,Valencia CF,1 - 1
+272,28,15/03/2025 20:00,Estadio Municipal de Montilivi,Girona,Valencia CF,1 - 1
 275,28,16/03/2025 13:00,Estadio Municipal Butarque,CD Leganés,Real Betis,2 - 3
 274,28,16/03/2025 15:15,Ramón Sánchez-Pizjuán,Sevilla FC,Athletic Club,0 - 1
 273,28,16/03/2025 17:30,Estadio de Vallecas,Rayo Vallecano,Real Sociedad,2 - 2
 277,28,16/03/2025 17:30,Estadio El Sadar,CA Osasuna,Getafe CF,1 - 2
-271,28,16/03/2025 20:00,Metropolitano Stadium,Atlético de Madrid,FC Barcelona,2 - 4
+271,28,16/03/2025 20:00,Metropolitano Stadium,Atletico,Barcelona,2 - 4
 286,29,29/03/2025 13:00,Reale Arena,Real Sociedad,Real Valladolid CF,2 - 1
-288,29,29/03/2025 15:15,RCDE Stadium,RCD Espanyol de Barcelona,Atlético de Madrid,1 - 1
+288,29,29/03/2025 15:15,RCDE Stadium,RCD Espanyol de Barcelona,Atletico,1 - 1
 287,29,29/03/2025 17:30,Mendizorroza,Deportivo Alavés,Rayo Vallecano,0 - 2
 290,29,29/03/2025 20:00,Estadio Santiago Bernabéu,Real Madrid,CD Leganés,3 - 2
 285,29,30/03/2025 12:00,Coliseum,Getafe CF,Villarreal CF,1 - 2
-282,29,30/03/2025 14:15,Estadi Olímpic Lluís Companys,FC Barcelona,Girona FC,4 - 1
+282,29,30/03/2025 14:15,Estadi Olímpic Lluís Companys,Barcelona,Girona,4 - 1
 281,29,30/03/2025 16:30,Estadio San Mamés,Athletic Club,CA Osasuna,0 - 0
 289,29,30/03/2025 16:30,Camp de Mestalla,Valencia CF,RCD Mallorca,1 - 0
 283,29,30/03/2025 19:00,Estadio Benito Villamarín,Real Betis,Sevilla FC,2 - 1
 284,29,31/03/2025 19:00,Estadio ABANCA Balaídos,RC Celta,UD Las Palmas,1 - 1
 300,30,04/04/2025 19:00,Estadio de Vallecas,Rayo Vallecano,RCD Espanyol de Barcelona,0 - 4
-299,30,05/04/2025 12:00,Estadio Municipal de Montilivi,Girona FC,Deportivo Alavés,0 - 1
+299,30,05/04/2025 12:00,Estadio Municipal de Montilivi,Girona,Deportivo Alavés,0 - 1
 292,30,05/04/2025 14:15,Estadio Santiago Bernabéu,Real Madrid,Valencia CF,1 - 2
 297,30,05/04/2025 16:30,Estadi Mallorca Son Moix,RCD Mallorca,RC Celta,1 - 2
-291,30,05/04/2025 19:00,Estadi Olímpic Lluís Companys,FC Barcelona,Real Betis,1 - 1
+291,30,05/04/2025 19:00,Estadi Olímpic Lluís Companys,Barcelona,Real Betis,1 - 1
 293,30,06/04/2025 12:00,Estadio Gran Canaria,UD Las Palmas,Real Sociedad,1 - 3
-296,30,06/04/2025 14:15,Ramón Sánchez-Pizjuán,Sevilla FC,Atlético de Madrid,1 - 2
+296,30,06/04/2025 14:15,Ramón Sánchez-Pizjuán,Sevilla FC,Atletico,1 - 2
 298,30,06/04/2025 16:30,Estadio Municipal José Zorrilla,Real Valladolid CF,Getafe CF,0 - 4
 295,30,06/04/2025 19:00,Estadio de la Cerámica,Villarreal CF,Athletic Club,0 - 0
-294,30,07/04/2025 19:00,Estadio Municipal Butarque,CD Leganés,CA Osasuna,
-309,31,11/04/2025 19:00,Camp de Mestalla,Valencia CF,Sevilla FC,
-308,31,12/04/2025 12:00,Reale Arena,Real Sociedad,RCD Mallorca,
-304,31,12/04/2025 14:15,Coliseum,Getafe CF,UD Las Palmas,
-310,31,12/04/2025 16:30,Estadio ABANCA Balaídos,RC Celta,RCD Espanyol de Barcelona,
-306,31,12/04/2025 19:00,Estadio Municipal Butarque,CD Leganés,FC Barcelona,
-307,31,13/04/2025 12:00,Estadio El Sadar,CA Osasuna,Girona FC,
-305,31,13/04/2025 14:15,Mendizorroza,Deportivo Alavés,Real Madrid,
+294,30,07/04/2025 19:00,Estadio Municipal Butarque,CD Leganés,CA Osasuna,1 - 1
+309,31,11/04/2025 19:00,Camp de Mestalla,Valencia CF,Sevilla FC,1 - 0
+308,31,12/04/2025 12:00,Reale Arena,Real Sociedad,RCD Mallorca,0 - 2
+304,31,12/04/2025 14:15,Coliseum,Getafe CF,UD Las Palmas,1 - 3
+310,31,12/04/2025 16:30,Estadio ABANCA Balaídos,RC Celta,RCD Espanyol de Barcelona,0 - 2
+306,31,12/04/2025 19:00,Estadio Municipal Butarque,CD Leganés,Barcelona,0 - 1
+307,31,13/04/2025 12:00,Estadio El Sadar,CA Osasuna,Girona,2 - 1
+305,31,13/04/2025 14:15,Mendizorroza,Deportivo Alavés,Real Madrid,4 - 2
 303,31,13/04/2025 16:30,Estadio Benito Villamarín,Real Betis,Villarreal CF,
 301,31,13/04/2025 19:00,Estadio San Mamés,Athletic Club,Rayo Vallecano,
-302,31,14/04/2025 19:00,Metropolitano Stadium,Atlético de Madrid,Real Valladolid CF,
+302,31,14/04/2025 19:00,Metropolitano Stadium,Atletico,Real Valladolid CF,
 313,32,18/04/2025 19:00,RCDE Stadium,RCD Espanyol de Barcelona,Getafe CF,
 312,32,19/04/2025 12:00,Estadio de Vallecas,Rayo Vallecano,Valencia CF,
-311,32,19/04/2025 14:15,Estadi Olímpic Lluís Companys,FC Barcelona,RC Celta,
+311,32,19/04/2025 14:15,Estadi Olímpic Lluís Companys,Barcelona,RC Celta,
 320,32,19/04/2025 16:30,Estadi Mallorca Son Moix,RCD Mallorca,CD Leganés,
-315,32,19/04/2025 19:00,Estadio Gran Canaria,UD Las Palmas,Atlético de Madrid,
+315,32,19/04/2025 19:00,Estadio Gran Canaria,UD Las Palmas,Atletico,
 317,32,20/04/2025 12:00,Estadio Municipal José Zorrilla,Real Valladolid CF,CA Osasuna,
 318,32,20/04/2025 14:15,Estadio de la Cerámica,Villarreal CF,Real Sociedad,
 319,32,20/04/2025 16:30,Ramón Sánchez-Pizjuán,Sevilla FC,Deportivo Alavés,
 314,32,20/04/2025 19:00,Estadio Santiago Bernabéu,Real Madrid,Athletic Club,
-316,32,21/04/2025 19:00,Estadio Municipal de Montilivi,Girona FC,Real Betis,
+316,32,21/04/2025 19:00,Estadio Municipal de Montilivi,Girona,Real Betis,
 330,33,22/04/2025 17:00,Camp de Mestalla,Valencia CF,RCD Espanyol de Barcelona,
-323,33,22/04/2025 19:30,Estadi Olímpic Lluís Companys,FC Barcelona,RCD Mallorca,
+323,33,22/04/2025 19:30,Estadi Olímpic Lluís Companys,Barcelona,RCD Mallorca,
 321,33,23/04/2025 17:00,Estadio San Mamés,Athletic Club,UD Las Palmas,
 325,33,23/04/2025 17:00,Estadio ABANCA Balaídos,RC Celta,Villarreal CF,
 326,33,23/04/2025 19:30,Coliseum,Getafe CF,Real Madrid,
 328,33,23/04/2025 19:30,Mendizorroza,Deportivo Alavés,Real Sociedad,
 327,33,24/04/2025 17:00,Estadio El Sadar,CA Osasuna,Sevilla FC,
-329,33,24/04/2025 17:00,Estadio Municipal Butarque,CD Leganés,Girona FC,
-322,33,24/04/2025 19:30,Metropolitano Stadium,Atlético de Madrid,Rayo Vallecano,
+329,33,24/04/2025 17:00,Estadio Municipal Butarque,CD Leganés,Girona,
+322,33,24/04/2025 19:30,Metropolitano Stadium,Atletico,Rayo Vallecano,
 324,33,24/04/2025 19:30,Estadio Benito Villamarín,Real Betis,Real Valladolid CF,
 338,34,02/05/2025 19:00,Estadio de Vallecas,Rayo Vallecano,Getafe CF,
-333,34,03/05/2025 12:00,Mendizorroza,Deportivo Alavés,Atlético de Madrid,
+333,34,03/05/2025 12:00,Mendizorroza,Deportivo Alavés,Atletico,
 339,34,03/05/2025 14:15,Estadio de la Cerámica,Villarreal CF,CA Osasuna,
 332,34,03/05/2025 16:30,Estadio Gran Canaria,UD Las Palmas,Valencia CF,
 337,34,03/05/2025 19:00,Estadio Santiago Bernabéu,Real Madrid,RC Celta,
-336,34,04/05/2025 12:00,Estadio Municipal José Zorrilla,Real Valladolid CF,FC Barcelona,
+336,34,04/05/2025 12:00,Estadio Municipal José Zorrilla,Real Valladolid CF,Barcelona,
 340,34,04/05/2025 14:15,Ramón Sánchez-Pizjuán,Sevilla FC,CD Leganés,
 334,34,04/05/2025 16:30,RCDE Stadium,RCD Espanyol de Barcelona,Real Betis,
 335,34,04/05/2025 19:00,Reale Arena,Real Sociedad,Athletic Club,
-331,34,05/05/2025 19:00,Estadio Municipal de Montilivi,Girona FC,RCD Mallorca,
-341,35,11/05/2025 00:00,Metropolitano Stadium,Atlético de Madrid,Real Sociedad,
-342,35,11/05/2025 00:00,Estadi Olímpic Lluís Companys,FC Barcelona,Real Madrid,
+331,34,05/05/2025 19:00,Estadio Municipal de Montilivi,Girona,RCD Mallorca,
+341,35,11/05/2025 00:00,Metropolitano Stadium,Atletico,Real Sociedad,
+342,35,11/05/2025 00:00,Estadi Olímpic Lluís Companys,Barcelona,Real Madrid,
 343,35,11/05/2025 00:00,Estadio Benito Villamarín,Real Betis,CA Osasuna,
 344,35,11/05/2025 00:00,Estadio ABANCA Balaídos,RC Celta,Sevilla FC,
-345,35,11/05/2025 00:00,Estadio Municipal de Montilivi,Girona FC,Villarreal CF,
+345,35,11/05/2025 00:00,Estadio Municipal de Montilivi,Girona,Villarreal CF,
 346,35,11/05/2025 00:00,Estadi Mallorca Son Moix,RCD Mallorca,Real Valladolid CF,
 347,35,11/05/2025 00:00,Estadio Gran Canaria,UD Las Palmas,Rayo Vallecano,
 348,35,11/05/2025 00:00,Camp de Mestalla,Valencia CF,Getafe CF,
 349,35,11/05/2025 00:00,Estadio San Mamés,Athletic Club,Deportivo Alavés,
 350,35,11/05/2025 00:00,Estadio Municipal Butarque,CD Leganés,RCD Espanyol de Barcelona,
 351,36,14/05/2025 00:00,Mendizorroza,Deportivo Alavés,Valencia CF,
-352,36,14/05/2025 00:00,RCDE Stadium,RCD Espanyol de Barcelona,FC Barcelona,
+352,36,14/05/2025 00:00,RCDE Stadium,RCD Espanyol de Barcelona,Barcelona,
 353,36,14/05/2025 00:00,Coliseum,Getafe CF,Athletic Club,
-354,36,14/05/2025 00:00,Estadio El Sadar,CA Osasuna,Atlético de Madrid,
+354,36,14/05/2025 00:00,Estadio El Sadar,CA Osasuna,Atletico,
 355,36,14/05/2025 00:00,Estadio de Vallecas,Rayo Vallecano,Real Betis,
 356,36,14/05/2025 00:00,Reale Arena,Real Sociedad,RC Celta,
-357,36,14/05/2025 00:00,Estadio Municipal José Zorrilla,Real Valladolid CF,Girona FC,
+357,36,14/05/2025 00:00,Estadio Municipal José Zorrilla,Real Valladolid CF,Girona,
 358,36,14/05/2025 00:00,Estadio Santiago Bernabéu,Real Madrid,RCD Mallorca,
 359,36,14/05/2025 00:00,Ramón Sánchez-Pizjuán,Sevilla FC,UD Las Palmas,
 360,36,14/05/2025 00:00,Estadio de la Cerámica,Villarreal CF,CD Leganés,
-361,37,18/05/2025 00:00,Metropolitano Stadium,Atlético de Madrid,Real Betis,
-362,37,18/05/2025 00:00,Estadi Olímpic Lluís Companys,FC Barcelona,Villarreal CF,
+361,37,18/05/2025 00:00,Metropolitano Stadium,Atletico,Real Betis,
+362,37,18/05/2025 00:00,Estadi Olímpic Lluís Companys,Barcelona,Villarreal CF,
 363,37,18/05/2025 00:00,Estadio ABANCA Balaídos,RC Celta,Rayo Vallecano,
 364,37,18/05/2025 00:00,Camp de Mestalla,Valencia CF,Athletic Club,
 365,37,18/05/2025 00:00,Estadi Mallorca Son Moix,RCD Mallorca,Getafe CF,
-366,37,18/05/2025 00:00,Reale Arena,Real Sociedad,Girona FC,
+366,37,18/05/2025 00:00,Reale Arena,Real Sociedad,Girona,
 367,37,18/05/2025 00:00,Ramón Sánchez-Pizjuán,Sevilla FC,Real Madrid,
 368,37,18/05/2025 00:00,Estadio Municipal José Zorrilla,Real Valladolid CF,Deportivo Alavés,
 369,37,18/05/2025 00:00,Estadio Gran Canaria,UD Las Palmas,CD Leganés,
 370,37,18/05/2025 00:00,Estadio El Sadar,CA Osasuna,RCD Espanyol de Barcelona,
-371,38,25/05/2025 00:00,Estadio San Mamés,Athletic Club,FC Barcelona,
+371,38,25/05/2025 00:00,Estadio San Mamés,Athletic Club,Barcelona,
 372,38,25/05/2025 00:00,Estadio Benito Villamarín,Real Betis,Valencia CF,
 373,38,25/05/2025 00:00,Estadio Santiago Bernabéu,Real Madrid,Real Sociedad,
 374,38,25/05/2025 00:00,Mendizorroza,Deportivo Alavés,CA Osasuna,
 375,38,25/05/2025 00:00,Estadio Municipal Butarque,CD Leganés,Real Valladolid CF,
 376,38,25/05/2025 00:00,RCDE Stadium,RCD Espanyol de Barcelona,UD Las Palmas,
-377,38,25/05/2025 00:00,Estadio Municipal de Montilivi,Girona FC,Atlético de Madrid,
+377,38,25/05/2025 00:00,Estadio Municipal de Montilivi,Girona,Atletico,
 378,38,25/05/2025 00:00,Coliseum,Getafe CF,RC Celta,
 379,38,25/05/2025 00:00,Estadio de Vallecas,Rayo Vallecano,RCD Mallorca,
 380,38,25/05/2025 00:00,Estadio de la Cerámica,Villarreal CF,Sevilla FC,

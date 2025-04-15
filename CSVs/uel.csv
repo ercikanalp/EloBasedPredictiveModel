@@ -1,5 +1,5 @@
 Match Number,Round Number,Date,Location,Home Team,Away Team,Result
-1,1,25/09/2024 16:45,AZ Stadion,AZ Alkmaar,Elfsborg,3 - 2
+1,1,25/09/2024 16:45,AZ Stadion,AZ,Elfsborg,3 - 2
 2,1,25/09/2024 16:45,Aspmyra,Bodø/Glimt,Porto,3 - 2
 3,1,25/09/2024 19:00,Old Trafford,Man Utd,Twente,1 - 1
 4,1,25/09/2024 19:00,Ali Sami Yen Spor Kompleksi,Galatasaray,PAOK,3 - 1
@@ -31,7 +31,7 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 30,2,03/10/2024 19:00,Toumba Stadium,PAOK,FCSB,0 - 1
 31,2,03/10/2024 19:00,Stadion mesta Plzne,Viktoria Plzen,Ludogorets,0 - 0
 32,2,03/10/2024 19:00,King Baudouin Stadium,Union SG,Bodø/Glimt,0 - 0
-33,2,03/10/2024 19:00,Estadio de San Mamés,Athletic Club,AZ Alkmaar,2 - 0
+33,2,03/10/2024 19:00,Estadio de San Mamés,Athletic Club,AZ,2 - 0
 34,2,03/10/2024 19:00,FC Twente Stadion,Twente,Fenerbahçe,1 - 1
 35,2,03/10/2024 19:00,Besiktas Stadium,Besiktas,Frankfurt,1 - 3
 36,2,03/10/2024 19:00,Borås Arena,Elfsborg,Roma,1 - 0
@@ -46,7 +46,7 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 45,3,24/10/2024 16:45,Arena Herning,Midtjylland,Union SG,1 - 0
 46,3,24/10/2024 19:00,Estádio do Dragão,Porto,Hoffenheim,2 - 0
 47,3,24/10/2024 19:00,Ibrox Stadium,Rangers,FCSB,4 - 0
-48,3,24/10/2024 19:00,Tottenham Hotspur Stadium,Tottenham,AZ Alkmaar,1 - 0
+48,3,24/10/2024 19:00,Tottenham Hotspur Stadium,Tottenham,AZ,1 - 0
 49,3,24/10/2024 19:00,OL Stadium,Lyon,Besiktas,0 - 1
 50,3,24/10/2024 19:00,Fenerbahçe Sükrü Saracoglu Spor Kompleksi,Fenerbahçe,Man Utd,1 - 1
 51,3,24/10/2024 19:00,Malmö New Stadium,Malmö,Olympiacos,0 - 1
@@ -66,13 +66,13 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 65,4,07/11/2024 20:00,Old Trafford,Man Utd,PAOK,2 - 0
 66,4,07/11/2024 20:00,Johan Cruijff ArenA,Ajax,M. Tel-Aviv,5 - 0
 67,4,07/11/2024 20:00,Stadio Olimpico,Lazio,Porto,2 - 1
-68,4,07/11/2024 20:00,AZ Stadion,AZ Alkmaar,Fenerbahçe,3 - 1
+68,4,07/11/2024 20:00,AZ Stadion,AZ,Fenerbahçe,3 - 1
 69,4,07/11/2024 20:00,Stadion mesta Plzne,Viktoria Plzen,Real Sociedad,2 - 1
 70,4,07/11/2024 20:00,Volksparkstadion,Dynamo Kyiv,Ferencváros,0 - 4
 71,4,07/11/2024 20:00,Rhein-Neckar-Arena,Hoffenheim,Lyon,2 - 2
 72,4,07/11/2024 20:00,Daugava,RFS,Anderlecht,1 - 1
 73,5,28/11/2024 17:45,Stadio Olimpico,Lazio,Ludogorets,0 - 0
-74,5,28/11/2024 17:45,AZ Stadion,AZ Alkmaar,Galatasaray,1 - 1
+74,5,28/11/2024 17:45,AZ Stadion,AZ,Galatasaray,1 - 1
 75,5,28/11/2024 17:45,Tofiq Bahramov Republican Stadium,Qarabag,Lyon,1 - 4
 76,5,28/11/2024 17:45,Volksparkstadion,Dynamo Kyiv,Viktoria Plzen,1 - 2
 77,5,28/11/2024 17:45,Estadio de San Mamés,Athletic Club,Elfsborg,3 - 0
@@ -95,7 +95,7 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 94,6,12/12/2024 17:45,Toumba Stadium,PAOK,Ferencváros,5 - 0
 95,6,12/12/2024 17:45,Stadion mesta Plzne,Viktoria Plzen,Man Utd,1 - 2
 96,6,12/12/2024 17:45,King Baudouin Stadium,Union SG,Nice,2 - 1
-97,6,12/12/2024 17:45,Ludogorets Arena,Ludogorets,AZ Alkmaar,2 - 2
+97,6,12/12/2024 17:45,Ludogorets Arena,Ludogorets,AZ,2 - 2
 98,6,12/12/2024 17:45,Malmö New Stadium,Malmö,Galatasaray,2 - 2
 99,6,12/12/2024 17:45,Rhein-Neckar-Arena,Hoffenheim,FCSB,0 - 0
 100,6,12/12/2024 20:00,Estádio do Dragão,Porto,Midtjylland,2 - 0
@@ -110,7 +110,7 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 109,7,21/01/2025 15:30,Ali Sami Yen Spor Kompleksi,Galatasaray,Dynamo Kyiv,3 - 3
 110,7,22/01/2025 15:30,Besiktas Stadium,Besiktas,Athletic Club,4 - 1
 111,7,23/01/2025 17:45,Estádio do Dragão,Porto,Olympiacos,0 - 1
-112,7,23/01/2025 17:45,AZ Stadion,AZ Alkmaar,Roma,1 - 0
+112,7,23/01/2025 17:45,AZ Stadion,AZ,Roma,1 - 0
 113,7,23/01/2025 17:45,Fenerbahçe Sükrü Saracoglu Spor Kompleksi,Fenerbahçe,Lyon,0 - 0
 114,7,23/01/2025 17:45,Tofiq Bahramov Republican Stadium,Qarabag,FCSB,2 - 3
 115,7,23/01/2025 17:45,Stadion mesta Plzne,Viktoria Plzen,Anderlecht,2 - 0
@@ -135,7 +135,7 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 134,8,30/01/2025 20:00,Stadio Georgios Karaiskakis,Olympiacos,Qarabag,3 - 0
 135,8,30/01/2025 20:00,OL Stadium,Lyon,Ludogorets,1 - 1
 136,8,30/01/2025 20:00,Stadion FK Partizan,M. Tel-Aviv,Porto,0 - 1
-137,8,30/01/2025 20:00,Ferencváros Stadion,Ferencváros,AZ Alkmaar,4 - 3
+137,8,30/01/2025 20:00,Ferencváros Stadion,Ferencváros,AZ,4 - 3
 138,8,30/01/2025 20:00,Volksparkstadion,Dynamo Kyiv,RFS,1 - 0
 139,8,30/01/2025 20:00,Arena Herning,Midtjylland,Fenerbahçe,2 - 2
 140,8,30/01/2025 20:00,Estadio de San Mamés,Athletic Club,Viktoria Plzen,3 - 1
@@ -148,18 +148,18 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 147,Play-off Game 1,13/02/2025 17:45,Arena Herning,Midtjylland,Real Sociedad,1 - 2
 148,Play-off Game 1,13/02/2025 17:45,Fenerbahçe Sükrü Saracoglu Spor Kompleksi,Fenerbahçe,Anderlecht,3 - 0
 149,Play-off Game 1,13/02/2025 20:00,FC Twente Stadion,Twente,Bodø/Glimt,2 - 1
-150,Play-off Game 1,13/02/2025 20:00,AZ Stadion,AZ Alkmaar,Galatasaray,4 - 1
+150,Play-off Game 1,13/02/2025 20:00,AZ Stadion,AZ,Galatasaray,4 - 1
 151,Play-off Game 1,13/02/2025 20:00,Toumba Stadium,PAOK,FCSB,1 - 2
 152,Play-off Game 1,13/02/2025 20:00,Estádio do Dragão,Porto,Roma,1 - 1
 153,Play-off Game 2,20/02/2025 17:45,Aspmyra,Bodø/Glimt,Twente,5 - 2
-154,Play-off Game 2,20/02/2025 17:45,Ali Sami Yen Spor Kompleksi,Galatasaray,AZ Alkmaar,2 - 2
+154,Play-off Game 2,20/02/2025 17:45,Ali Sami Yen Spor Kompleksi,Galatasaray,AZ,2 - 2
 155,Play-off Game 2,20/02/2025 17:45,National Arena,FCSB,PAOK,2 - 0
 156,Play-off Game 2,20/02/2025 17:45,Stadio Olimpico,Roma,Porto,3 - 2
 157,Play-off Game 2,20/02/2025 20:00,Stadion mesta Plzne,Viktoria Plzen,Ferencváros,3 - 0
 158,Play-off Game 2,20/02/2025 20:00,Johan Cruijff ArenA,Ajax,Union SG,1 - 2
 159,Play-off Game 2,20/02/2025 20:00,REALA ARENA,Real Sociedad,Midtjylland,5 - 2
 160,Play-off Game 2,20/02/2025 20:00,RSC Anderlecht Stadium,Anderlecht,Fenerbahçe,2 - 2
-161,R16 Game 1,06/03/2025 17:45,AZ Stadion,AZ Alkmaar,Tottenham,1 - 0
+161,R16 Game 1,06/03/2025 17:45,AZ Stadion,AZ,Tottenham,1 - 0
 162,R16 Game 1,06/03/2025 17:45,REALA ARENA,Real Sociedad,Man Utd,1 - 1
 163,R16 Game 1,06/03/2025 17:45,National Arena,FCSB,Lyon,1 - 3
 164,R16 Game 1,06/03/2025 17:45,Fenerbahçe Sükrü Saracoglu Spor Kompleksi,Fenerbahçe,Rangers,1 - 3
@@ -171,14 +171,14 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 170,R16 Game 2,13/03/2025 17:45,Stadio Georgios Karaiskakis,Olympiacos,Bodø/Glimt,2 - 1
 171,R16 Game 2,13/03/2025 17:45,Frankfurt Stadion,Frankfurt,Ajax,4 - 1
 172,R16 Game 2,13/03/2025 17:45,Estadio de San Mamés,Athletic Club,Roma,3 - 1
-173,R16 Game 2,13/03/2025 20:00,Tottenham Hotspur Stadium,Tottenham,AZ Alkmaar,3 - 1
+173,R16 Game 2,13/03/2025 20:00,Tottenham Hotspur Stadium,Tottenham,AZ,3 - 1
 174,R16 Game 2,13/03/2025 20:00,Old Trafford,Man Utd,Real Sociedad,4 - 1
 175,R16 Game 2,13/03/2025 20:00,OL Stadium,Lyon,FCSB,4 - 0
 176,R16 Game 2,13/03/2025 20:00,Ibrox Stadium,Rangers,Fenerbahçe,0 - 2
-177,QF Game 1,10/04/2025 16:45,Aspmyra,Bodø/Glimt,Lazio,
-178,QF Game 1,10/04/2025 19:00,Tottenham Hotspur Stadium,Tottenham,Frankfurt,
-179,QF Game 1,10/04/2025 19:00,OL Stadium,Lyon,Man Utd,
-180,QF Game 1,10/04/2025 19:00,Ibrox Stadium,Rangers,Athletic Club,
+177,QF Game 1,10/04/2025 16:45,Aspmyra,Bodø/Glimt,Lazio,2 - 0
+178,QF Game 1,10/04/2025 19:00,Tottenham Hotspur Stadium,Tottenham,Frankfurt,1 - 1
+179,QF Game 1,10/04/2025 19:00,OL Stadium,Lyon,Man Utd,2 - 2
+180,QF Game 1,10/04/2025 19:00,Ibrox Stadium,Rangers,Athletic Club,0 - 0
 181,QF Game 2,17/04/2025 19:00,Stadio Olimpico,Lazio,Bodø/Glimt,
 182,QF Game 2,17/04/2025 19:00,Frankfurt Stadion,Frankfurt,Tottenham,
 183,QF Game 2,17/04/2025 19:00,Old Trafford,Man Utd,Lyon,

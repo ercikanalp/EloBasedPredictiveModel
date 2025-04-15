@@ -201,7 +201,7 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 204,23,08/02/2025 16:00,RHG Enertürk Enerji Stadium,Kayserispor,Konyaspor,3 - 2
 203,23,08/02/2025 19:00,New Sivas 4 Eylül Stadium,Sivasspor,Besiktas,0 - 2
 201,23,09/02/2025 13:30,Recep Tayyip Erdogan Stadium,Kasimpasa,Çaykur Rizespor,3 - 2
-199,23,09/02/2025 16:00,Rams Park,Galatasaray,Adana Demirspor,
+199,23,09/02/2025 16:00,Rams Park,Galatasaray,Adana Demirspor,3 - 0
 200,23,09/02/2025 16:00,Alanya Oba Stadium,Alanyaspor,Fenerbahçe,0 - 2
 207,23,09/02/2025 19:00,Corendon Airlines Park,Antalyaspor,Istanbul Basaksehir,0 - 0
 202,23,10/02/2025 20:00,Papara Park,Trabzonspor,Eyüpspor,1 - 0
@@ -267,21 +267,17 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 270,30,06/04/2025 13:30,Alanya Oba Stadium,Alanyaspor,Bodrum,0 - 1
 265,30,06/04/2025 16:00,Mersin Stadium,Hatayspor,Eyüpspor,0 - 1
 263,30,06/04/2025 19:00,Ülker Stadium,Fenerbahçe,Trabzonspor,4 - 1
-266,30,07/04/2025 20:00,Recep Tayyip Erdogan Stadium,Kasimpasa,Besiktas,1 - 3
-268,30,07/04/2025 20:00,Gürsel Aksel Stadium,Göztepe,Gaziantep,0 - 2
-343,29,01/04/2025 16:00,Konya Metropolitan Municipality Stadium,Konyaspor,Iskenderun,3 - 0
-344,29,02/04/2025 16;00,Papara Park,Trabzonspor,Bodrum,3 - 2
-345,29,02/04/2025 18:00,Ülker Stadium,Fenerbahçe,Galatasaray,1 - 2
-346,29,03/04/2025 16:00,Besiktas Park,Besiktas,Göztepe,1 - 3
-275,31,11/04/2025 20:00,Samsun 19 Mayis Stadium,Samsunspor,Galatasaray,
-278,31,12/04/2025 16:00,Konya Metropolitan Municipality Stadium,Konyaspor,Göztepe,
-277,31,12/04/2025 19:00,Bodrum District Stadium,Bodrum,Antalyaspor,
-279,31,12/04/2025 19:00,Besiktas Park,Besiktas,Istanbul Basaksehir,
+266,30,07/04/2025 20:00,Recep Tayyip Erdogan Stadium,Kasimpasa,Besiktas,1 - 1
+268,30,07/04/2025 20:00,Gürsel Aksel Stadium,Göztepe,Gaziantep,1 - 1
+275,31,11/04/2025 20:00,Samsun 19 Mayis Stadium,Samsunspor,Galatasaray,0 - 2
+278,31,12/04/2025 16:00,Konya Metropolitan Municipality Stadium,Konyaspor,Göztepe,1 - 0
+277,31,12/04/2025 19:00,Bodrum District Stadium,Bodrum,Antalyaspor,0 - 0
+279,31,12/04/2025 19:00,Besiktas Park,Besiktas,Istanbul Basaksehir,0 - 2
 273,31,13/04/2025 16:00,Papara Park,Trabzonspor,Çaykur Rizespor,
-274,31,13/04/2025 16:00,RHG Enertürk Enerji Stadium,Kayserispor,Kasimpasa,
-272,31,13/04/2025 19:00,New Sivas 4 Eylül Stadium,Sivasspor,Fenerbahçe,
-276,31,13/04/2025 19:00,Kalyon Stadium,Gaziantep,Hatayspor,
-271,31,14/04/2025 20:00,Recep Tayyip Erdogan Stadium,Eyüpspor,Adana Demirspor,
+274,31,13/04/2025 16:00,RHG Enertürk Enerji Stadium,Kayserispor,Kasimpasa,1 - 0
+272,31,13/04/2025 19:00,New Sivas 4 Eylül Stadium,Sivasspor,Fenerbahçe,1 - 3
+276,31,13/04/2025 19:00,Kalyon Stadium,Gaziantep,Hatayspor,2 - 1
+271,31,14/04/2025 20:00,Recep Tayyip Erdogan Stadium,Eyüpspor,Adana Demirspor,6 - 0
 280,32,20/04/2025 16:00,Recep Tayyip Erdogan Stadium,Kasimpasa,Sivasspor,
 281,32,20/04/2025 16:00,New Adana Stadium,Adana Demirspor,Trabzonspor,
 282,32,20/04/2025 16:00,Ülker Stadium,Fenerbahçe,Kayserispor,
